@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Settings</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/2.44.0/iconfont/tabler-icons.min.css">
+<link rel="stylesheet" href="style.css">
+<script>document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'light');</script>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand"><span class="dot"></span> Polly's watchlist</div>
+  <div class="nav-wrap">
+    <button class="nav-toggle" id="nav-toggle"><i class="ti ti-menu-2"></i> Menu</button>
+    <div class="nav-menu" id="nav-menu">
+      <a href="index.html" data-page="overview">Overview</a>
+      <a href="watchlist.html" data-page="watchlist">Watchlist</a>
+      <a href="signals.html" data-page="signals">Signals</a>
+      <a href="settings.html" data-page="settings">Settings</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <p class="page-title">Settings</p>
+  <p class="page-sub">Display preferences and what's currently tracked.</p>
+
+  <div class="settings-block">
+    <h3>Appearance</h3>
+    <div class="row">
+      <span>Dark mode</span>
+      <div class="switch" id="theme-switch" onclick="toggleTheme()"></div>
+    </div>
+  </div>
+
+  <div class="settings-block" id="tracked-block">
+    <h3>Tracked themes</h3>
+  </div>
+
+  <div class="settings-block">
+    <h3>Data source</h3>
+    <div class="row"><span>Update method</span><span style="color:var(--text-secondary)">Manual refresh (web search)</span></div>
+    <div class="row"><span>Live market-data feed</span><span style="color:var(--text-secondary)">Not connected</span></div>
+  </div>
+
+  <div class="footer-note">To add or remove tickers, or connect a live data feed, just tell Claude — this page reflects data.json, which gets edited on your behalf.</div>
+</main>
+
+<script src="app.js"></script>
+<script>
+initNav('settings');
+initTheme();
+document.getElementById('theme-switch').classList.toggle('on', (localStorage.getItem('theme') || 'light') === 'dark');
+
+loadData().then(data => {
+  const rows = data.tiers.map(t => `<div class="row"><span>${t.label}</span><span style="color:var(--text-secondary)">${t.items.length} names</span></div>`).join('');
+  document.getElementById('tracked-block').innerHTML += rows;
+});
+</script>
+</body>
+</html>

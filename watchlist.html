@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Watchlist</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tabler-icons/2.44.0/iconfont/tabler-icons.min.css">
+<link rel="stylesheet" href="style.css">
+<script>document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'light');</script>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand"><span class="dot"></span> Polly's watchlist</div>
+  <div class="nav-wrap">
+    <button class="nav-toggle" id="nav-toggle"><i class="ti ti-menu-2"></i> Menu</button>
+    <div class="nav-menu" id="nav-menu">
+      <a href="index.html" data-page="overview">Overview</a>
+      <a href="watchlist.html" data-page="watchlist">Watchlist</a>
+      <a href="signals.html" data-page="signals">Signals</a>
+      <a href="settings.html" data-page="settings">Settings</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <p class="page-title">Watchlist</p>
+  <p class="page-sub" id="updated-line">Loading…</p>
+
+  <div class="tile-grid" id="tile-grid"></div>
+
+  <div class="footer-note">Grouped by theme: AI infra/cloud, chips, robotics, AI software, AI hardware, crypto, and cybersecurity/enterprise software (from Edwin's trades).</div>
+</main>
+
+<script src="app.js"></script>
+<script>
+initNav('watchlist');
+loadData().then(data => {
+  document.getElementById('updated-line').textContent = 'Snapshot: ' + data.updated;
+  document.getElementById('tile-grid').innerHTML = data.tiers.map(tileHTML).join('');
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,130 @@
+{
+  "updated": "2026-07-12",
+  "tiers": [
+    {
+      "id": "ai_infra",
+      "label": "AI infrastructure & cloud",
+      "icon": "cloud",
+      "items": [
+        { "ticker": "NVDA", "name": "Nvidia", "price": 210.96, "change": 4.03 },
+        { "ticker": "AVGO", "name": "Broadcom", "price": 399.97, "change": -0.28 },
+        { "ticker": "MSFT", "name": "Microsoft", "price": 414.44, "change": 1.63 },
+        { "ticker": "GOOGL", "name": "Alphabet", "price": null, "change": -0.2 },
+        { "ticker": "AMZN", "name": "Amazon", "price": null, "change": -0.2 },
+        { "ticker": "ORCL", "name": "Oracle", "price": 171.83, "change": 6.47 }
+      ]
+    },
+    {
+      "id": "chips",
+      "label": "Chips & semiconductors",
+      "icon": "cpu",
+      "items": [
+        { "ticker": "NVDA", "name": "Nvidia", "price": 210.96, "change": 4.03 },
+        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 557.89, "change": 2.04 },
+        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 434.11, "change": -0.65 },
+        { "ticker": "MU", "name": "Micron Technology", "price": 1051.50, "change": -0.03 },
+        { "ticker": "ASML", "name": "ASML Holding", "price": 1749.19, "change": -1.65 },
+        { "ticker": "ARM", "name": "Arm Holdings", "price": 323.39, "change": -1.37 }
+      ]
+    },
+    {
+      "id": "robotics",
+      "label": "Robotics",
+      "icon": "robot",
+      "items": [
+        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 407.76, "change": 0.30 },
+        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 406.78, "change": -1.16 },
+        { "ticker": "TER", "name": "Teradyne", "price": 363.42, "change": null },
+        { "ticker": "9880.HK", "name": "UBTECH Robotics", "price": 85.05, "change": -3.02 }
+      ]
+    },
+    {
+      "id": "ai_software",
+      "label": "AI software",
+      "icon": "apps",
+      "items": [
+        { "ticker": "PLTR", "name": "Palantir", "price": 127.00, "change": null, "note": "-27% YTD" },
+        { "ticker": "CRM", "name": "Salesforce", "price": 163.32, "change": null },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 107.71, "change": -1.04, "note": "-36% H1 2026" },
+        { "ticker": "ADBE", "name": "Adobe", "price": 223.64, "change": 0.44 }
+      ]
+    },
+    {
+      "id": "ai_hardware",
+      "label": "AI hardware & picks-and-shovels",
+      "icon": "circuit-resistor",
+      "items": [
+        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 43.28, "change": -7.60 },
+        { "ticker": "VPG", "name": "Vishay Precision Group", "price": 123.00, "change": 1.16 },
+        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": null, "change": null },
+        { "ticker": "SNPS", "name": "Synopsys", "price": null, "change": null }
+      ]
+    },
+    {
+      "id": "crypto",
+      "label": "Crypto",
+      "icon": "currency-bitcoin",
+      "items": [
+        { "ticker": "BTC", "name": "Bitcoin", "price": 63725, "change": null },
+        { "ticker": "ETH", "name": "Ethereum", "price": 1794.74, "change": 2.85 }
+      ]
+    },
+    {
+      "id": "cyber_software",
+      "label": "Cybersecurity & enterprise software",
+      "icon": "shield-lock",
+      "note": "From Edwin's trades",
+      "items": [
+        { "ticker": "CRWD", "name": "CrowdStrike", "price": 187.18, "change": -5.66, "entry": 188, "stop": 184, "status": "watch" },
+        { "ticker": "ZS", "name": "Zscaler", "price": 147.33, "change": null, "entry": 144, "stop": 138.6, "status": "ok" },
+        { "ticker": "NTAP", "name": "NetApp", "price": 163, "change": null, "note": "up ~9% per Edwin", "status": "ok" },
+        { "ticker": "U", "name": "Unity Software", "price": 28.58, "change": null, "status": "ok" },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 107.71, "change": -1.04, "note": "doesn't match Edwin's +5.75% note", "status": "check" }
+      ]
+    }
+  ],
+  "signals": [
+    {
+      "tier": "chips",
+      "severity": "warning",
+      "title": "Chips pulling back after an 80%+ H1 run",
+      "body": "Broadcom's Q3 AI guidance ($16B) missed the $17.2B estimate and didn't raise full-year forecasts, a sell-the-news drop of ~14% on June 4. Micron fell ~10% on similar jitters despite being up 260%+ YTD. Nvidia is cheaper now at ~15x FY2028 earnings, still growing revenue 85% YoY.",
+      "watch": "Hyperscaler capex commentary (MSFT/GOOGL/AMZN earnings) and any signs the data-center buildout is slowing."
+    },
+    {
+      "tier": "macro",
+      "severity": "info",
+      "title": "Fed and oil are the near-term wildcards",
+      "body": "New Fed Chair Kevin Warsh held rates steady in June; a hike is still on the table this year. Renewed U.S.-Iran strikes have pushed oil prices and bond yields up, adding pressure on growth/tech valuations.",
+      "watch": "This week's CPI print and any Strait of Hormuz escalation."
+    },
+    {
+      "tier": "ai_software",
+      "severity": "warning",
+      "title": "AI software selloff looks structural, not a blip",
+      "body": "Enterprise software has been sold off since January on fears agentic AI shrinks software seat counts. ServiceNow beat estimates (+22% revenue YoY) and still dropped 18% on the print.",
+      "watch": "Whether any name can decouple from the AI-eats-SaaS narrative with a strong quarter."
+    },
+    {
+      "tier": "robotics",
+      "severity": "info",
+      "title": "Robotics is hype-driven and headline-sensitive",
+      "body": "Humanoid names spiked July 10 on Tesla Optimus procurement orders and Unitree's IPO approval. Tesla's 2026 Optimus units are for internal testing only; Unitree's profit fell 52% YoY even as revenue grew.",
+      "watch": "This sector can gap hard on single headlines in either direction."
+    },
+    {
+      "tier": "crypto",
+      "severity": "info",
+      "title": "Crypto resilient but macro-tied",
+      "body": "BTC/ETH are up ~2.8% over the past week despite the Iran conflict. Spot BTC ETFs just snapped a 10-day outflow streak with a $221.7M inflow day, the largest in two months.",
+      "watch": "Further Strait of Hormuz developments and ETF flow trends."
+    },
+    {
+      "tier": "cyber_software",
+      "severity": "danger",
+      "title": "CRWD trading near its stop-loss",
+      "body": "Current price $187.18 versus Edwin's stop at $184, down 5.66% today. Still above the stop, but support is being tested.",
+      "watch": "Whether 184 holds, or whether the broader software selloff narrative starts pulling security names down too."
+    }
+  ]
+}
