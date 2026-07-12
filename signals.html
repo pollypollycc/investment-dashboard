@@ -27,15 +27,18 @@
   <p class="page-title">Market signals</p>
   <p class="page-sub" id="updated-line">What to watch before the market reacts — a news synthesis, not a live feed.</p>
 
-  <div id="signal-list"></div>
+  <p style="font-size:14px;font-weight:600;margin:0 0 10px;">This week's outlook</p>
+  <div id="outlook-block" style="margin-bottom:24px;"></div>
 
-  <div class="footer-note">This is a synthesis of public reporting, not financial advice. Use it to know what to check before you act, not as a buy or sell signal.</div>
+  <p style="font-size:14px;font-weight:600;margin:0 0 10px;">Signal detail</p>
+  <div id="signal-list"></div>
 </main>
 
 <script src="app.js"></script>
 <script>
 initNav('signals');
 loadData().then(data => {
+  document.getElementById('outlook-block').innerHTML = outlookHTML(data.outlook);
   document.getElementById('signal-list').innerHTML = data.signals.map(signalHTML).join('');
 });
 </script>
