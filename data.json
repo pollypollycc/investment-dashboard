@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "tiers": [
     {
       "id": "macro",
@@ -7,12 +7,12 @@
       "icon": "world",
       "note": "backdrop for everything else",
       "items": [
-        { "ticker": "SPY", "name": "S&P 500 ETF", "price": 754.95, "change": 0.43 },
-        { "ticker": "QQQ", "name": "Nasdaq 100 ETF", "price": 715.00, "change": null },
-        { "ticker": "US10Y", "name": "10-year Treasury yield", "price": 4.57, "change": null, "note": "highest since May" },
-        { "ticker": "WTI", "name": "Crude oil (WTI)", "price": 71.41, "change": null },
+        { "ticker": "SPY", "name": "S&P 500 ETF", "price": 754.90, "change": 0.3 },
+        { "ticker": "QQQ", "name": "Nasdaq 100 ETF", "price": 726.29, "change": 1.58 },
+        { "ticker": "US10Y", "name": "10-year Treasury yield", "price": 4.56, "change": 0.46, "note": "elevated on oil/Fed jitters" },
+        { "ticker": "WTI", "name": "Crude oil (WTI)", "price": 71.41, "change": -0.93 },
         { "ticker": "GOLD", "name": "Gold (per oz)", "price": 4113.70, "change": -0.65 },
-        { "ticker": "DXY", "name": "US Dollar Index", "price": 100.96, "change": 0.01 }
+        { "ticker": "DXY", "name": "US Dollar Index", "price": 100.76, "change": 0.07 }
       ]
     },
     {
@@ -21,11 +21,11 @@
       "icon": "cloud",
       "items": [
         { "ticker": "NVDA", "name": "Nvidia", "price": 210.96, "change": 4.03 },
-        { "ticker": "AVGO", "name": "Broadcom", "price": 399.97, "change": -0.28 },
-        { "ticker": "MSFT", "name": "Microsoft", "price": 414.44, "change": 1.63 },
-        { "ticker": "GOOGL", "name": "Alphabet", "price": null, "change": -0.2 },
-        { "ticker": "AMZN", "name": "Amazon", "price": null, "change": -0.2 },
-        { "ticker": "ORCL", "name": "Oracle", "price": 171.83, "change": 6.47 }
+        { "ticker": "AVGO", "name": "Broadcom", "price": 400.39, "change": 0.11 },
+        { "ticker": "MSFT", "name": "Microsoft", "price": 385.10, "change": null },
+        { "ticker": "GOOGL", "name": "Alphabet", "price": 357.17, "change": null },
+        { "ticker": "AMZN", "name": "Amazon", "price": 245.34, "change": null },
+        { "ticker": "ORCL", "name": "Oracle", "price": 140.88, "change": -18.02, "note": "giving back most of its June AI-guidance pop" }
       ]
     },
     {
@@ -34,11 +34,11 @@
       "icon": "cpu",
       "items": [
         { "ticker": "NVDA", "name": "Nvidia", "price": 210.96, "change": 4.03 },
-        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 557.89, "change": 2.04 },
-        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 434.11, "change": -0.65 },
-        { "ticker": "MU", "name": "Micron Technology", "price": 1051.50, "change": -0.03 },
-        { "ticker": "ASML", "name": "ASML Holding", "price": 1749.19, "change": -1.65 },
-        { "ticker": "ARM", "name": "Arm Holdings", "price": 323.39, "change": -1.37 }
+        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 546.72, "change": 5.67 },
+        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 436.96, "change": 0.0 },
+        { "ticker": "MU", "name": "Micron Technology", "price": 977.00, "change": -1.48 },
+        { "ticker": "ASML", "name": "ASML Holding", "price": 1797.32, "change": -0.38 },
+        { "ticker": "ARM", "name": "Arm Holdings", "price": 327.87, "change": 9.20 }
       ]
     },
     {
@@ -46,8 +46,8 @@
       "label": "Robotics",
       "icon": "robot",
       "items": [
-        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 407.76, "change": 0.30 },
-        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 406.78, "change": -1.16 },
+        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 407.76, "change": null, "note": "UBS raised price target to $442 on physical AI/Optimus" },
+        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 406.78, "change": null },
         { "ticker": "TER", "name": "Teradyne", "price": 363.42, "change": null },
         { "ticker": "9880.HK", "name": "UBTECH Robotics", "price": 85.05, "change": -3.02 }
       ]
@@ -57,10 +57,10 @@
       "label": "AI software",
       "icon": "apps",
       "items": [
-        { "ticker": "PLTR", "name": "Palantir", "price": 127.00, "change": null, "note": "-27% YTD" },
+        { "ticker": "PLTR", "name": "Palantir", "price": 126.55, "change": -0.35, "note": "-27% YTD" },
         { "ticker": "CRM", "name": "Salesforce", "price": 163.32, "change": null },
-        { "ticker": "NOW", "name": "ServiceNow", "price": 107.71, "change": -1.04, "note": "-36% H1 2026" },
-        { "ticker": "ADBE", "name": "Adobe", "price": 223.64, "change": 0.44 }
+        { "ticker": "NOW", "name": "ServiceNow", "price": 109.42, "change": 0.53, "note": "-36% H1 2026" },
+        { "ticker": "ADBE", "name": "Adobe", "price": 220.90, "change": -1.22 }
       ]
     },
     {
@@ -68,10 +68,10 @@
       "label": "AI hardware & picks-and-shovels",
       "icon": "circuit-resistor",
       "items": [
-        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 43.28, "change": -7.60 },
-        { "ticker": "VPG", "name": "Vishay Precision Group", "price": 123.00, "change": 1.16 },
-        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": null, "change": null },
-        { "ticker": "SNPS", "name": "Synopsys", "price": null, "change": null }
+        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 49.94, "change": null },
+        { "ticker": "VPG", "name": "Vishay Precision Group", "price": 126.17, "change": null },
+        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": 384.57, "change": -0.33 },
+        { "ticker": "SNPS", "name": "Synopsys", "price": 446.36, "change": 0.69 }
       ]
     },
     {
@@ -79,8 +79,8 @@
       "label": "Crypto",
       "icon": "currency-bitcoin",
       "items": [
-        { "ticker": "BTC", "name": "Bitcoin", "price": 63725, "change": null },
-        { "ticker": "ETH", "name": "Ethereum", "price": 1794.74, "change": 2.85 }
+        { "ticker": "BTC", "name": "Bitcoin", "price": 64188.26, "change": 0.10 },
+        { "ticker": "ETH", "name": "Ethereum", "price": 1802.62, "change": 0.26 }
       ]
     },
     {
@@ -89,75 +89,83 @@
       "icon": "shield-lock",
       "note": "Watched trades",
       "items": [
-        { "ticker": "CRWD", "name": "CrowdStrike", "price": 187.18, "change": -5.66, "entry": 188, "stop": 184, "status": "watch" },
-        { "ticker": "ZS", "name": "Zscaler", "price": 147.33, "change": null, "entry": 144, "stop": 138.6, "status": "ok" },
-        { "ticker": "NTAP", "name": "NetApp", "price": 163, "change": null, "note": "up ~9%", "status": "ok" },
-        { "ticker": "U", "name": "Unity Software", "price": 28.58, "change": null, "status": "ok" },
-        { "ticker": "NOW", "name": "ServiceNow", "price": 107.71, "change": -1.04, "note": "doesn't match earlier +5.75% note", "status": "check" }
+        { "ticker": "CRWD", "name": "CrowdStrike", "price": 187.33, "change": null, "entry": 188, "stop": 184, "status": "watch" },
+        { "ticker": "ZS", "name": "Zscaler", "price": 141.15, "change": null, "entry": 144, "stop": 138.6, "status": "ok" },
+        { "ticker": "NTAP", "name": "NetApp", "price": 165.78, "change": 1.71, "note": "up ~9%", "status": "ok" },
+        { "ticker": "U", "name": "Unity Software", "price": 30.89, "change": 8.08, "status": "ok" },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 109.42, "change": 0.53, "note": "price now consistent across tiers", "status": "ok" }
       ]
     }
   ],
   "outlook": {
-    "updated": "2026-07-12",
+    "updated": "2026-07-13",
     "summary": "Not financial advice — this is a read of the public data and news above, meant to help you decide, not a recommendation. Always size positions and confirm with your own research.",
     "strongest": [
-      { "area": "Chips / AI infra", "reason": "The pullback looks like profit-taking after an 80%+ H1 rally, not a fundamentals problem — Nvidia now trades at ~15x FY2028 earnings while still growing 85% YoY. Historically the highest-conviction theme in this watchlist." },
-      { "area": "Crypto", "reason": "Showing resilience despite geopolitical noise, with ETF inflows just turning positive again after a rough June. Macro-sensitive, but the trend this week is constructive." }
+      { "area": "Chips / AI infra (memory & foundry)", "reason": "Memory and AI-adjacent names (Micron, Sandisk, Marvell) rallied on unabated AI demand commentary, with AI executives like Pat Gelsinger calling demand 'almost unlimited.' The PHLX chip index is up ~60% YTD despite bouts of volatility, and Arm's +9% move shows risk appetite is still there for the right names." },
+      { "area": "Crypto", "reason": "Bitcoin is holding near $64k despite ongoing Iran-related geopolitical noise, with spot ETF flows turning positive again and BlackRock's tokenized fund (BUIDL) AUM climbing. Stability under stress is itself a signal here." }
     ],
     "weakest": [
-      { "area": "AI software", "reason": "The 'agentic AI eats SaaS' narrative is driving a structural repricing — good earnings (ServiceNow) are still getting sold. This looks like it needs a clear counter-narrative before it stabilizes, not just one strong quarter." },
-      { "area": "Robotics", "reason": "Real commercialization (Optimus external sales, Unitree profit) is lagging the stock price moves, which are largely headline-driven. Higher volatility, lower conviction until production numbers catch up to the hype." }
+      { "area": "AI infra / mega-cap cloud", "reason": "Oracle gave back a large chunk of its June AI-guidance rally, and broader chip-stock sentiment has been whipsawed by Meta's reported move to sell excess AI compute capacity and a Samsung earnings miss that triggered a semis selloff. The 'unlimited AI capex' story is being tested in real time." },
+      { "area": "AI software", "reason": "The agentic-AI-eats-SaaS overhang persists; even as Salesforce and ServiceNow ship real integration work (Slack-to-Salesforce platform tie-in), the group hasn't found a durable floor. ServiceNow's move today was only modestly positive despite the news." }
     ],
-    "nextStep": "Given the setup, the chips/AI-infra pullback is the area most worth a closer look if you're considering adding exposure — it's sentiment-driven rather than fundamentals-driven. AI software and robotics are better watched than acted on right now until their respective narratives (AI disruption fears, actual commercial deployment) resolve one way or the other."
+    "nextStep": "The chip-sector split — memory/AI-infra names catching a bid while Oracle and parts of mega-cap cloud wobble on capacity-glut headlines — is the most worth a closer look right now, since it's a genuine divergence in the AI-demand narrative rather than a uniform move. AI software and robotics remain better watched than acted on: the former is still searching for a floor, and the latter (Tesla's price-target hike aside) is still more story than delivered numbers."
   },
   "signals": [
     {
-      "tier": "chips",
-      "severity": "warning",
-      "title": "Chips pulling back after an 80%+ H1 run",
-      "body": "Broadcom's Q3 AI guidance ($16B) missed the $17.2B estimate and didn't raise full-year forecasts, a sell-the-news drop of ~14% on June 4. Micron fell ~10% on similar jitters despite being up 260%+ YTD. Nvidia is cheaper now at ~15x FY2028 earnings, still growing revenue 85% YoY.",
-      "watch": "Hyperscaler capex commentary (MSFT/GOOGL/AMZN earnings) and any signs the data-center buildout is slowing.",
-      "focus": "Worth a closer look — this reads as profit-taking, not a fundamentals break."
-    },
-    {
       "tier": "macro",
       "severity": "info",
-      "title": "Fed and oil are the near-term wildcards",
-      "body": "New Fed Chair Kevin Warsh held rates steady in June; a hike is still on the table this year. Renewed U.S.-Iran strikes have pushed oil (WTI ~$71.41) and the 10-year yield (~4.57%, highest since May) up, adding pressure on growth/tech valuations.",
-      "watch": "This week's CPI print and any Strait of Hormuz escalation.",
-      "focus": "This is the swing factor for everything else — a hawkish surprise or oil spike would hit growth names across every tier."
+      "title": "Fed holds steady, oil and yields stay elevated on Iran tensions",
+      "body": "The Fed held its target rate at 3.50%-3.75% for a fourth straight meeting in June; the next FOMC decision lands July 28-29. Fed Chair Kevin Warsh said inflation risks have eased somewhat but flagged that some officials still see a case for a hike. Meanwhile renewed U.S.-Iran strikes have kept WTI crude near $71 and the 10-year yield near 4.56%, both headwinds for richly-valued growth names.",
+      "watch": "The July 28-29 FOMC decision and any further escalation around the Strait of Hormuz.",
+      "focus": "This is the swing factor for everything else this month — a hawkish surprise or oil spike would pressure growth names across every tier."
+    },
+    {
+      "tier": "chips",
+      "severity": "warning",
+      "title": "Chip sector split: memory rallying, capacity-glut fears hit others",
+      "body": "Micron, Sandisk, Marvell, Broadcom, Intel, and AMD all traded higher this week on unabated AI-demand commentary, but the broader group has also seen sharp selloffs tied to a Samsung earnings miss and reports that Meta plans to sell excess AI computing capacity — raising the first real capacity-glut questions of this cycle.",
+      "watch": "Whether the Meta capacity story is a one-off or the start of a broader hyperscaler capex reassessment.",
+      "focus": "Worth a closer look on the memory/AI-infra names showing real demand-driven strength; the capacity-glut headlines are worth tracking before adding broadly."
+    },
+    {
+      "tier": "ai_infra",
+      "severity": "warning",
+      "title": "Oracle gives back its June AI-guidance pop",
+      "body": "Oracle shares have pulled back sharply from the highs reached after its June AI-cloud guidance beat, now trading well below that peak as investors reassess how much of the AI-infra buildout translates to near-term Oracle cloud revenue.",
+      "watch": "Oracle's next cloud-infrastructure booking update and any read-through to other hyperscaler capex plans.",
+      "focus": "Lower conviction right now on chasing the prior rally — the reversal suggests the market wants confirmation, not just guidance."
     },
     {
       "tier": "ai_software",
-      "severity": "warning",
-      "title": "AI software selloff looks structural, not a blip",
-      "body": "Enterprise software has been sold off since January on fears agentic AI shrinks software seat counts. ServiceNow beat estimates (+22% revenue YoY) and still dropped 18% on the print.",
-      "watch": "Whether any name can decouple from the AI-eats-SaaS narrative with a strong quarter.",
-      "focus": "Lower conviction right now — better to watch for a narrative shift than act on today's prices."
+      "severity": "info",
+      "title": "Palantir upgraded; Salesforce-Slack integration finally ships",
+      "body": "DA Davidson upgraded Palantir to Buy citing ~39% upside, as CEO Alex Karp continues pushing a 'sovereign AI' narrative against large frontier labs. Separately, five years after acquiring Slack, Salesforce shipped a Slackbot integration tying together CRM data, Tableau analytics, and Data 360 customer profiles — a concrete product step for the AI-eats-SaaS debate.",
+      "watch": "Whether the Slack integration shows up in Salesforce's next seat-count and revenue commentary.",
+      "focus": "Worth watching for early proof points, but the sector-wide re-rating pressure hasn't lifted yet."
     },
     {
       "tier": "robotics",
       "severity": "info",
-      "title": "Robotics is hype-driven and headline-sensitive",
-      "body": "Humanoid names spiked July 10 on Tesla Optimus procurement orders and Unitree's IPO approval. Tesla's 2026 Optimus units are for internal testing only; Unitree's profit fell 52% YoY even as revenue grew.",
-      "watch": "This sector can gap hard on single headlines in either direction.",
-      "focus": "Speculative — size any position smaller given the gap between stock moves and actual commercial traction."
+      "title": "Tesla gets a bullish price-target hike on physical AI",
+      "body": "UBS raised its Tesla price target to $442 from $364, crediting the company's investments in physical AI — including Optimus, Full Self-Driving, and Dojo — as underappreciated by the market. This follows last week's spike in humanoid-robotics names on Optimus procurement and Unitree IPO headlines.",
+      "watch": "Any concrete Optimus production or external-sale numbers, versus continued internal-testing-only status.",
+      "focus": "Speculative — sizeable analyst optimism, but actual commercial deployment is still the gap to watch."
     },
     {
       "tier": "crypto",
       "severity": "info",
-      "title": "Crypto resilient but macro-tied",
-      "body": "BTC/ETH are up ~2.8% over the past week despite the Iran conflict. Spot BTC ETFs just snapped a 10-day outflow streak with a $221.7M inflow day, the largest in two months.",
-      "watch": "Further Strait of Hormuz developments and ETF flow trends.",
-      "focus": "Constructive trend this week, but stay mindful of geopolitical headline risk."
+      "title": "Bitcoin steady near $64k as ETF flows turn positive",
+      "body": "BTC is holding near $64,188 and ETH near $1,803 despite ongoing Iran-related geopolitical risk. Spot BTC ETF flows have reversed to net inflows (~$197M), and BlackRock's tokenized BUIDL fund crossed $900M on Avalanche, pushing total AUM to roughly $2.87B.",
+      "watch": "Continued ETF flow direction and any escalation in Middle East tensions that could reverse the trend.",
+      "focus": "Constructive trend this week — resilience under geopolitical stress is itself notable."
     },
     {
       "tier": "cyber_software",
       "severity": "danger",
-      "title": "CRWD trading near its stop-loss",
-      "body": "Current price $187.18 versus the tracked stop at $184, down 5.66% today. Still above the stop, but support is being tested.",
-      "watch": "Whether 184 holds, or whether the broader software selloff narrative starts pulling security names down too.",
-      "focus": "Worth checking daily until it clears back above $190 or confirms the stop."
+      "title": "CrowdStrike still trading close to its tracked stop",
+      "body": "CRWD is at $187.33, essentially flat versus recent sessions and still hovering just above the tracked stop at $184. Elsewhere in this tier, Unity Software has moved up meaningfully (~+8% since last check) while Zscaler and NetApp have been comparatively quiet.",
+      "watch": "Whether $184 holds on CRWD, and whether Unity's move has legs or fades.",
+      "focus": "Worth checking daily until CRWD clears back above $190 or confirms the stop."
     }
   ]
 }
