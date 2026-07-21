@@ -7,12 +7,12 @@
       "icon": "world",
       "note": "backdrop for everything else",
       "items": [
-        { "ticker": "SPY", "name": "S&P 500 ETF", "price": 743.29, "change": -0.99 },
-        { "ticker": "QQQ", "name": "Nasdaq 100 ETF", "price": 695.33, "change": -1.50 },
-        { "ticker": "US10Y", "name": "10-year Treasury yield", "price": 4.57, "change": -1.08, "note": "eased to around 4.57% as safe-haven demand picked up alongside the broader tech selloff, even with oil spiking on renewed Middle East escalation" },
-        { "ticker": "WTI", "name": "Crude oil (WTI)", "price": 85.30, "change": 3.00, "note": "jumped roughly 3% to above $85 after US Central Command confirmed a third service member killed and unidentified remains found near a prior strike site, deepening the Iran standoff" },
-        { "ticker": "GOLD", "name": "Gold (per oz)", "price": 4001.06, "change": -0.40, "note": "holding just above $4,000, roughly flat as oil-driven inflation risk and safe-haven flows pull it in opposite directions" },
-        { "ticker": "DXY", "name": "US Dollar Index", "price": 100.72, "change": -0.04, "note": "little changed; markets now pricing roughly a coin-flip chance of a September Fed move" }
+        { "ticker": "SPY", "name": "S&P 500 ETF", "price": 744.90, "change": 0.50, "note": "climbing as chip stocks rebound ahead of a heavy week of Big Tech earnings" },
+        { "ticker": "QQQ", "name": "Nasdaq 100 ETF", "price": 698.12, "change": 0.80 },
+        { "ticker": "US10Y", "name": "10-year Treasury yield", "price": 4.55, "change": -0.53 },
+        { "ticker": "WTI", "name": "Crude oil (WTI)", "price": 87.40, "change": 5.90, "note": "surging as Iran's ceasefire with the US collapses and Iran reportedly intercepts vessels in the Strait of Hormuz; Brent topped $90/bbl" },
+        { "ticker": "GOLD", "name": "Gold (per oz)", "price": 4015.00, "change": 0.40, "note": "holding above $4,000 as Middle East violence continues, even with a stronger dollar and Fed rate-hike chatter cutting both ways" },
+        { "ticker": "DXY", "name": "US Dollar Index", "price": 100.73, "change": -0.04 }
       ]
     },
     {
@@ -20,12 +20,12 @@
       "label": "AI infrastructure & cloud",
       "icon": "cloud",
       "items": [
-        { "ticker": "NVDA", "name": "Nvidia", "price": 202.81, "change": -2.21, "note": "extended its slide as China's Moonshot AI unveiled the Kimi K3 model, reviving 'DeepSeek moment' fears about US AI capex" },
-        { "ticker": "AVGO", "name": "Broadcom", "price": 370.83, "change": -0.97 },
-        { "ticker": "MSFT", "name": "Microsoft", "price": 393.82, "change": -1.82, "note": "pulled back with the broader AI-infrastructure complex ahead of its July 29 earnings" },
-        { "ticker": "GOOGL", "name": "Alphabet", "price": 346.77, "change": -2.17, "note": "still digesting the Gemini 3.5 Pro delay reports; reports earnings Wednesday July 22" },
+        { "ticker": "NVDA", "name": "Nvidia", "price": 209.00, "change": 2.50, "note": "rebounding with the broader chip complex; the Philadelphia Semiconductor Index (SOX) jumped over 3% today after Friday's bear-market close" },
+        { "ticker": "AVGO", "name": "Broadcom", "price": 378.00, "change": 2.00 },
+        { "ticker": "MSFT", "name": "Microsoft", "price": 397.00, "change": 0.80, "note": "up after announcing it will use AMD's new Helios system in its data centers, ahead of its own July 29 earnings" },
+        { "ticker": "GOOGL", "name": "Alphabet", "price": 346.77, "change": -2.17, "note": "still digesting last week's Gemini 3.5 Pro delay report; reports Q2 earnings July 22" },
         { "ticker": "AMZN", "name": "Amazon", "price": 247.23, "change": -1.06 },
-        { "ticker": "ORCL", "name": "Oracle", "price": 126.41, "change": 1.77, "note": "stabilized and edged higher after last week's slide to one-notch-above-junk credit status; still down sharply from its all-time high" }
+        { "ticker": "ORCL", "name": "Oracle", "price": 126.41, "change": 1.77, "note": "bouncing modestly after last week's slide to a credit-rating cut near junk status over its AI data-center spending" }
       ]
     },
     {
@@ -33,12 +33,12 @@
       "label": "Chips & semiconductors",
       "icon": "cpu",
       "items": [
-        { "ticker": "NVDA", "name": "Nvidia", "price": 202.81, "change": -2.21 },
-        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 495.76, "change": -1.03 },
-        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 398.37, "change": -2.77, "note": "extending last week's decline even after its record Q2 profit; the Philadelphia Semiconductor Index is down over 12% this week, its worst in 15 months" },
-        { "ticker": "MU", "name": "Micron Technology", "price": 848.95, "change": -0.50 },
-        { "ticker": "ASML", "name": "ASML Holding", "price": 1711.66, "change": -3.84, "note": "fell with equipment names despite a recent guidance raise, as the Kimi K3 shock reignites questions about the pace of AI chip demand" },
-        { "ticker": "ARM", "name": "Arm Holdings", "price": 268.27, "change": 2.39 }
+        { "ticker": "NVDA", "name": "Nvidia", "price": 209.00, "change": 2.50 },
+        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 505.00, "change": 4.50, "note": "jumped in premarket trading after Microsoft said it will deploy AMD's Helios system across its data centers" },
+        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 405.00, "change": 1.70, "note": "recovering with the chip sector after last week's 'sell the news' reaction to its record Q2 profit" },
+        { "ticker": "MU", "name": "Micron Technology", "price": 860.00, "change": 1.30 },
+        { "ticker": "ASML", "name": "ASML Holding", "price": 1795.00, "change": 0.80 },
+        { "ticker": "ARM", "name": "Arm Holdings", "price": 267.19, "change": 1.98 }
       ]
     },
     {
@@ -46,10 +46,10 @@
       "label": "Robotics",
       "icon": "robot",
       "items": [
-        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 380.04, "change": -3.66, "note": "pulled back ahead of Wednesday July 22 earnings; recent reporting notes Optimus progress has lagged Tesla's own timeline" },
-        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 399.96, "change": -0.59, "note": "held up better than the broader tape, still benefiting from strong da Vinci 5 platform adoption and recurring instrument revenue" },
-        { "ticker": "TER", "name": "Teradyne", "price": 321.50, "change": -0.25, "note": "roughly stable after a volatile stretch tied to insider-selling headlines and overvaluation debate; reports earnings July 28" },
-        { "ticker": "9880.HK", "name": "UBTECH Robotics", "price": 88.70, "change": 3.44 }
+        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 380.84, "change": -2.61, "note": "trading lower ahead of Wednesday's Q2 earnings; reporting notes Optimus production count still sits at zero going into the call" },
+        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 345.58, "change": -1.50, "note": "still working off last week's nearly 14% post-earnings drop, after beating on revenue but giving cautious procedure-growth guidance" },
+        { "ticker": "TER", "name": "Teradyne", "price": 321.50, "change": 1.20, "note": "bouncing modestly with the broader chip-equipment complex ahead of its July 28 earnings" },
+        { "ticker": "9880.HK", "name": "UBTECH Robotics", "price": 90.15, "change": 1.60 }
       ]
     },
     {
@@ -57,10 +57,10 @@
       "label": "AI software",
       "icon": "apps",
       "items": [
-        { "ticker": "PLTR", "name": "Palantir", "price": 131.65, "change": -2.09 },
-        { "ticker": "CRM", "name": "Salesforce", "price": 170.77, "change": -1.11, "note": "eased despite a fresh Guggenheim upgrade to Buy, which argued AI-disruption fears had pushed valuations too low" },
-        { "ticker": "NOW", "name": "ServiceNow", "price": 103.24, "change": -0.74, "note": "still working through the IBM-driven enterprise-budget scare, though it also picked up a Guggenheim Buy upgrade; reports earnings July 22" },
-        { "ticker": "ADBE", "name": "Adobe", "price": 226.60, "change": 0.91 }
+        { "ticker": "PLTR", "name": "Palantir", "price": 132.38, "change": -1.53 },
+        { "ticker": "CRM", "name": "Salesforce", "price": 170.77, "change": -1.11 },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 103.24, "change": -0.74, "note": "still soft ahead of its own July 22 earnings" },
+        { "ticker": "ADBE", "name": "Adobe", "price": 233.81, "change": -0.60, "note": "roughly flat, holding most of last week's bounce on pushback against AI-disruption fears" }
       ]
     },
     {
@@ -68,10 +68,10 @@
       "label": "AI hardware & picks-and-shovels",
       "icon": "circuit-resistor",
       "items": [
-        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 37.04, "change": 5.41 },
-        { "ticker": "VPG", "name": "Vishay Precision Group", "price": 105.48, "change": -1.93, "note": "gave back some of its recent Q1-beat-driven surge (strong AI-infrastructure and semiconductor-equipment demand) amid the broader chip pullback" },
-        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": 330.70, "change": -9.31, "note": "sold off sharply alongside Synopsys after reports that a Chinese AI model autonomously designed a functional chip in 48 hours, raising fresh questions about design-tool moats" },
-        { "ticker": "SNPS", "name": "Synopsys", "price": 383.01, "change": -8.20, "note": "fell over 8% on the same Kimi K3-linked chip-design news; among the hardest-hit names in today's session" }
+        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 35.56, "change": -9.58, "note": "continuing to give back gains after last week's public share offering and multi-week run-up" },
+        { "ticker": "VPG", "name": "Vishay Precision Group", "price": null, "change": null, "note": "reliable same-day quote unavailable today; data sources showed conflicting values, last confirmed close was $107.56" },
+        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": 332.00, "change": -1.50 },
+        { "ticker": "SNPS", "name": "Synopsys", "price": 384.27, "change": -0.17 }
       ]
     },
     {
@@ -79,8 +79,8 @@
       "label": "Crypto",
       "icon": "currency-bitcoin",
       "items": [
-        { "ticker": "BTC", "name": "Bitcoin", "price": 64657.52, "change": 1.10, "note": "ticked higher and held up better than equities, relatively insulated from today's chip-sector shock" },
-        { "ticker": "ETH", "name": "Ethereum", "price": 1866.40, "change": -0.59 }
+        { "ticker": "BTC", "name": "Bitcoin", "price": 64467.27, "change": -0.29, "note": "risk-off tone continues as US-Iran hostilities enter a sixth day, though US spot Bitcoin ETFs just snapped a 10-day outflow streak with their largest daily inflow ($221.7M) in two months" },
+        { "ticker": "ETH", "name": "Ethereum", "price": 1865.00, "change": 0.46 }
       ]
     },
     {
@@ -89,83 +89,94 @@
       "icon": "shield-lock",
       "note": "Watched trades",
       "items": [
-        { "ticker": "CRWD", "name": "CrowdStrike", "price": 203.76, "change": -0.33, "entry": 188, "stop": 184, "status": "ok", "note": "roughly flat and still well above its tracked stop, though its valuation premium (27x forward sales vs. peers) is drawing more analyst scrutiny" },
-        { "ticker": "ZS", "name": "Zscaler", "price": 149.94, "change": 2.40, "entry": 144, "stop": 138.6, "status": "watch", "note": "outperformed CrowdStrike again today; trades at a far cheaper forward-sales multiple, keeping it above its tracked entry" },
-        { "ticker": "NTAP", "name": "NetApp", "price": 163.88, "change": 3.21, "status": "watch" },
-        { "ticker": "U", "name": "Unity Software", "price": 28.95, "change": -4.89, "status": "ok" },
-        { "ticker": "NOW", "name": "ServiceNow", "price": 103.24, "change": -0.74, "note": "still below its pre-selloff level despite the Guggenheim upgrade", "status": "watch" }
+        { "ticker": "CRWD", "name": "CrowdStrike", "price": 202.99, "change": -0.39, "note": "roughly flat, still holding well above its tracked stop after last week's string of analyst upgrades" },
+        { "ticker": "ZS", "name": "Zscaler", "price": 149.94, "change": 2.40, "note": "climbing back above its tracked entry as cybersecurity names keep outperforming broader enterprise software" },
+        { "ticker": "NTAP", "name": "NetApp", "price": 163.88, "change": 3.20, "status": "watch" },
+        { "ticker": "U", "name": "Unity Software", "price": 28.95, "change": -4.90, "status": "ok" },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 103.24, "change": -0.74, "note": "still below its pre-selloff level", "status": "watch" }
       ]
     }
   ],
   "outlook": {
-    "updated": "2026-07-20",
     "summary": "Not financial advice — this is a read of the public data and news above, meant to help you decide, not a recommendation. Always size positions and confirm with your own research.",
     "strongest": [
-      { "area": "Enterprise / AI software", "reason": "Guggenheim upgraded both Salesforce and ServiceNow to Buy, arguing the AI-disruption selloff sparked by IBM's budget-reallocation warning had pushed valuations too far — a sign some of the sector's worst fears may already be priced in even though shares haven't fully recovered yet." },
-      { "area": "Robotics / physical AI", "reason": "Intuitive Surgical continues to hold up better than the broader tape on strong da Vinci 5 adoption and recurring instrument revenue, a steadier contrast to Tesla's Optimus program, where reporting shows real-world deployment still running behind its own timeline." }
+      {
+        "area": "Chips & semiconductors",
+        "reason": "The SOX index jumped over 3% today, rebounding from Friday's bear-market close, helped by Microsoft's announcement that it will deploy AMD's new Helios system across its data centers — a concrete demand signal heading into a heavy week of earnings from Intel, Texas Instruments, and other bellwethers."
+      },
+      {
+        "area": "Cybersecurity",
+        "reason": "Cybersecurity names continue to outperform the rest of enterprise software, a divergence that traces back to IBM's recent commentary about clients shifting budget toward security and away from broader software spend."
+      }
     ],
     "weakest": [
-      { "area": "Chips, semiconductors & AI hardware", "reason": "China's Moonshot AI unveiled the Kimi K3 model — a 2.8-trillion-parameter open-weight model reportedly competitive with top US models at a fraction of the cost — triggering a broad 'DeepSeek moment' selloff. The Philadelphia Semiconductor Index is down over 12% this week, and design-tool names Synopsys and Cadence fell 8-9% on reports the same model autonomously designed a working chip in 48 hours." },
-      { "area": "AI infrastructure (Oracle, Alphabet, Microsoft)", "reason": "The group remains under pressure from a mix of overlapping worries: lingering fallout from Oracle's credit downgrade, Alphabet's delayed Gemini 3.5 Pro model, and the IBM-driven fear that AI hardware spending is cannibalizing traditional software and cloud budgets." }
+      {
+        "area": "Robotics / physical AI",
+        "reason": "Tesla heads into Wednesday's earnings with Optimus production still at zero, and separately Unitree's profits reportedly halved — two data points that temper the 'robot boom' narrative even as Intuitive Surgical continues working off its own post-earnings guidance-driven drop."
+      },
+      {
+        "area": "Macro / energy risk",
+        "reason": "Brent crude topped $90 a barrel as Iran's ceasefire with the US collapsed over the weekend and Iran reportedly intercepted vessels in the Strait of Hormuz, adding fresh inflation risk just as new Fed Chair Kevin Warsh has signaled openness to a rate hike later this year."
+      }
     ],
-    "nextStep": "The Kimi K3 shock to chips and design-tool stocks is the dominant story right now and is better watched than acted on until it's clearer whether this is a repeat DeepSeek-style overreaction or a genuine shift in the AI compute narrative. The enterprise-software rebound thesis (Guggenheim's upgrades) and this week's earnings from Alphabet, Tesla, and ServiceNow (Wed-Thu) look more worth a closer look for confirmation of the next move."
+    "nextStep": "The chip sector's rebound and the AMD-Microsoft data center deal look like the more immediate, concrete signal worth a closer look heading into this week's earnings from Alphabet, Tesla, Intel and IBM; the Iran-driven oil spike and the new Fed chair's rate-hike signaling are better watched than acted on until there's more clarity on where energy prices and policy land."
   },
   "signals": [
     {
-      "tier": "chips",
+      "tier": "macro",
       "severity": "danger",
-      "title": "Moonshot AI's Kimi K3 triggers a second 'DeepSeek moment' for chip stocks",
-      "body": "Chinese startup Moonshot AI (backed by Alibaba) unveiled Kimi K3, a 2.8-trillion-parameter open-weight model that reportedly matches or beats several leading US models on benchmarks while charging a fraction of the price. The news triggered a sharp selloff across the AI chip complex: the Philadelphia Semiconductor Index is down over 12% this week — its worst week in more than 15 months — with Taiwan's market down 6% and Japan's down 4%. Nvidia briefly lost its spot as the world's most valuable company to Apple.",
-      "watch": "Whether the selloff extends into this week's earnings from Alphabet, Tesla, and Intel, or stabilizes the way markets did after the original DeepSeek shock in 2025.",
-      "focus": "Lower conviction right now — this is a fast-moving, sentiment-driven story rather than a confirmed structural shift, worth watching closely before drawing conclusions."
-    },
-    {
-      "tier": "ai_hardware",
-      "severity": "warning",
-      "title": "Design-tool stocks Synopsys and Cadence hit hardest by the Kimi K3 news",
-      "body": "Synopsys fell about 8% and Cadence Design Systems fell over 9% after reports that Moonshot's Kimi K3 model autonomously designed a functional semiconductor chip in 48 hours using open-source tools, raising questions about whether AI could erode the value of traditional chip-design software moats.",
-      "watch": "Whether this proves to be a durable threat to EDA software demand or an overreaction to an early-stage capability demo.",
-      "focus": "Lower conviction right now — a single demo doesn't establish a trend, but the market reaction shows how sensitive these names are to AI-capability headlines."
+      "title": "Iran ceasefire collapses, Brent crude tops $90 as Hormuz tensions escalate",
+      "body": "Iran said its ceasefire with the US had effectively collapsed and reported intercepting vessels transiting the Strait of Hormuz over the weekend, pushing Brent crude above $90/bbl and extending a roughly 30% surge from July lows. WTI has followed, last confirmed near the mid-$80s.",
+      "watch": "Whether shipping and insurance disruptions in the Strait of Hormuz spread, and whether the oil spike shows up in upcoming inflation data.",
+      "focus": "Lower conviction right now — this is a fast-moving geopolitical risk with wide potential outcomes in either direction."
     },
     {
       "tier": "macro",
       "severity": "warning",
-      "title": "Middle East escalation pushes oil up 3% as a third US service member is confirmed killed",
-      "body": "US Central Command confirmed a third American service member was killed in the ongoing conflict, and forces reported finding unidentified remains near the site of an earlier Iranian strike. WTI crude jumped roughly 3% to trade above $85 a barrel on the news, while the 10-year Treasury yield eased to around 4.57% as some money rotated into safe havens alongside the tech-sector selloff.",
-      "watch": "Any further escalation or de-escalation signals, and whether sustained oil gains start feeding back into inflation expectations ahead of the Fed's next meeting.",
-      "focus": "Worth a closer look — geopolitical risk and its knock-on effects on rates and inflation are moving quickly right now."
+      "title": "New Fed Chair Warsh leaves door open to a rate hike",
+      "body": "Under new Chair Kevin Warsh, the Fed held rates steady at 3.50%-3.75% but shortened its policy statement, dropped forward guidance, and formed several task forces to review its process. Roughly half of FOMC members reportedly indicated they could support a rate hike later this year if inflation data doesn't cooperate — a notable shift in tone from prior guidance.",
+      "watch": "Upcoming inflation prints and any further public comments from Warsh or FOMC members on the hike odds.",
+      "focus": "Worth a closer look — a hawkish tone shift from a new Fed chair is a different kind of signal than routine data noise."
     },
     {
-      "tier": "ai_software",
+      "tier": "chips",
       "severity": "info",
-      "title": "Guggenheim upgrades Salesforce and ServiceNow to Buy after IBM-driven selloff",
-      "body": "After IBM's earnings warning suggested enterprise customers are diverting budget from software toward AI hardware — a fear that hit ServiceNow, Workday, Salesforce, and Appian — Guggenheim analyst John DiFucci upgraded both Salesforce and ServiceNow to Buy, arguing the AI-disruption fear had pushed valuations too low relative to fundamentals.",
-      "watch": "Whether other analysts follow with similar upgrades, and how ServiceNow's July 22 earnings report addresses the budget-reallocation narrative directly.",
-      "focus": "Worth a closer look — a specific, named analyst call pushing back on a sector-wide fear is a distinct signal from general sentiment."
+      "title": "Chip stocks rebound sharply as AMD-Microsoft data center deal lands",
+      "body": "The Philadelphia Semiconductor Index (SOX) rose more than 3% today after closing in bear-market territory Friday. AMD shares jumped in premarket trading after Microsoft confirmed it will use AMD's new Helios system in its data centers, offering a concrete demand data point just as Intel, Texas Instruments and other chip names prepare to report earnings this week.",
+      "watch": "Whether Intel and Texas Instruments' upcoming earnings confirm the sector-wide demand picture or reignite last week's capex-fatigue concerns.",
+      "focus": "Worth a closer look — a specific customer-demand announcement is a more concrete signal than the broader sentiment swings of the past week."
+    },
+    {
+      "tier": "ai_infra",
+      "severity": "info",
+      "title": "Big Tech earnings week ahead, with Alphabet still facing Gemini delay questions",
+      "body": "Alphabet, Tesla, Intel and IBM are all due to report this week. Alphabet shares remain under pressure following last week's reports that its Gemini 3.5 Pro model is running behind schedule; its July 22 call will be watched closely for direct comment on the timeline.",
+      "watch": "Whether Alphabet addresses the Gemini delay directly and whether Big Tech capex commentary broadly supports or undercuts the AI infrastructure trade.",
+      "focus": "Worth a closer look — this week's earnings slate is likely to be the biggest near-term catalyst for the whole AI infrastructure group."
     },
     {
       "tier": "robotics",
-      "severity": "info",
-      "title": "Optimus timeline slips while Intuitive Surgical's platform keeps compounding",
-      "body": "Reporting continues to highlight that Tesla's Optimus humanoid robot program is running behind its own internal targets, with zero units reported doing useful factory work as of the most recent update, even as the company converts more manufacturing capacity toward the program. Meanwhile, Intuitive Surgical's da Vinci 5 rollout has continued to drive strong recurring revenue and a dominant share of soft-tissue robotic surgery.",
-      "watch": "Whether Tesla's July 22 earnings call gives a firmer, more credible Optimus production timeline.",
-      "focus": "Worth a closer look for contrast — one name in this tier has a proven, monetizing platform today; the other is further out on the execution curve."
-    },
-    {
-      "tier": "cyber_software",
-      "severity": "info",
-      "title": "CrowdStrike's valuation premium over Zscaler keeps widening",
-      "body": "CrowdStrike trades at roughly 27x forward sales versus Zscaler's 5.26x, even as both have been strong performers this year (CRWD +46% YTD versus ZS's own sharp swings). Today both were roughly flat to slightly higher, but the valuation gap between the two is becoming a more frequent topic among analysts comparing the pair.",
-      "watch": "Whether Zscaler's cheaper multiple starts attracting relative-value rotation if the broader software rebound continues.",
-      "focus": "Worth checking in on, but a large valuation gap alone isn't a signal to act on without a fresh catalyst."
+      "severity": "warning",
+      "title": "Tesla heads into earnings with Optimus production still at zero",
+      "body": "Ahead of Wednesday's Q2 call, reporting notes Tesla's Optimus robot production count remains at zero, even as the stock trades lower today. Separately, Unitree's profits were reported to have halved, adding to signs that the 'humanoid robot boom' narrative is running ahead of near-term commercial reality, even as Intuitive Surgical's core medical-robotics business continues performing.",
+      "watch": "Any specific Optimus production timeline Tesla gives on Wednesday's call, and whether other humanoid-robotics names report similar margin pressure.",
+      "focus": "Lower conviction right now — the gap between the physical-AI narrative and near-term production numbers is worth watching closely before drawing conclusions."
     },
     {
       "tier": "crypto",
       "severity": "info",
-      "title": "Bitcoin holds steady while equities absorb the chip-sector shock",
-      "body": "Bitcoin ticked up about 1% and Ethereum was roughly flat, both notably calmer than the sharp moves in chip and design-tool stocks tied to the Kimi K3 news. Options market flow reportedly still shows some traders positioning for further BTC upside this month.",
-      "watch": "Whether crypto continues to decouple from equity-market AI-sentiment swings or gets pulled into broader risk-off flows if the chip selloff deepens.",
-      "focus": "Worth a closer look as a relative-stability read, but not a strong directional signal on its own."
+      "title": "Bitcoin ETF inflows snap losing streak even as risk-off tone persists",
+      "body": "US spot Bitcoin ETFs pulled in $221.7 million, their largest daily inflow in two months, snapping a 10-day losing streak — even as broader crypto sentiment stays cautious with US-Iran hostilities now in their sixth day.",
+      "watch": "Whether the ETF inflow trend continues for a second day, which would suggest institutional demand is decoupling from the geopolitical risk-off mood.",
+      "focus": "Worth a closer look — a reversal in a 10-day outflow streak is a more concrete data point than day-to-day price moves."
+    },
+    {
+      "tier": "cyber_software",
+      "severity": "info",
+      "title": "Cybersecurity keeps outperforming broader enterprise software",
+      "body": "Cybersecurity names continue to edge higher while most other enterprise software stocks trade mixed to lower, a divergence that traces back to IBM's recent warning that clients are shifting budget away from general software spend toward security and infrastructure.",
+      "watch": "Whether upcoming earnings from software names confirm the budget-reallocation story IBM described, or whether the divergence narrows.",
+      "focus": "Worth checking in on, but keep in mind some of this divergence may already be priced in after a week of the same trend."
     }
   ]
 }
