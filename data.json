@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "tiers": [
     {
       "id": "macro",
@@ -7,12 +7,12 @@
       "icon": "world",
       "note": "backdrop for everything else",
       "items": [
-        { "ticker": "SPY", "name": "S&P 500 ETF", "price": 748.28, "change": 0.45, "note": "still climbing as chip stocks extend their rebound into a heavy week of Big Tech earnings" },
-        { "ticker": "QQQ", "name": "Nasdaq 100 ETF", "price": 708.97, "change": 1.85 },
-        { "ticker": "US10Y", "name": "10-year Treasury yield", "price": 4.55, "change": -0.53 },
-        { "ticker": "WTI", "name": "Crude oil (WTI)", "price": 83.23, "change": 0.90, "note": "extending its rally as US-Iran hostilities continue to threaten Strait of Hormuz shipping; Brent is holding near $89/bbl" },
-        { "ticker": "GOLD", "name": "Gold (per oz)", "price": 4082.73, "change": 1.86, "note": "holding above $4,000 as the Fed's hawkish tilt and the ongoing Mideast conflict pull in opposite directions" },
-        { "ticker": "DXY", "name": "US Dollar Index", "price": 100.92, "change": -0.03 }
+        { "ticker": "SPY", "name": "S&P 500 ETF", "price": 747.41, "change": -0.12, "note": "still digesting Alphabet's and Tesla's capex-driven pullback, with the July 28-29 Fed meeting the next big catalyst" },
+        { "ticker": "QQQ", "name": "Nasdaq 100 ETF", "price": 705.35, "change": -0.51 },
+        { "ticker": "US10Y", "name": "10-year Treasury yield", "price": 4.66, "change": 2.42 },
+        { "ticker": "WTI", "name": "Crude oil (WTI)", "price": 88.17, "change": 1.54, "note": "holding near six-week highs as Mideast shipping risk keeps a floor under crude" },
+        { "ticker": "GOLD", "name": "Gold (per oz)", "price": 4089.80, "change": -0.99, "note": "easing back below $4,100 as haven demand cools slightly even with the Fed's hawkish tilt still in place" },
+        { "ticker": "DXY", "name": "US Dollar Index", "price": 101.12, "change": 0.20 }
       ]
     },
     {
@@ -20,12 +20,12 @@
       "label": "AI infrastructure & cloud",
       "icon": "cloud",
       "items": [
-        { "ticker": "NVDA", "name": "Nvidia", "price": 208.91, "change": 2.00, "note": "extending its rebound after taking a stake in neocloud provider Nebius, as the broader chip rally continues into Big Tech earnings week" },
-        { "ticker": "AVGO", "name": "Broadcom", "price": 386.88, "change": 2.35 },
-        { "ticker": "MSFT", "name": "Microsoft", "price": 402.29, "change": 2.15, "note": "up after last week's news it will use AMD's new Helios system in its data centers, ahead of its own July 29 earnings" },
-        { "ticker": "GOOGL", "name": "Alphabet", "price": 351.99, "change": 1.51, "note": "reporting Q2 results today; options are pricing in a roughly 5.4% swing, with cloud profitability, 2027 capex guidance and the Gemini rollout timeline the focus" },
-        { "ticker": "AMZN", "name": "Amazon", "price": 247.55, "change": -0.98 },
-        { "ticker": "ORCL", "name": "Oracle", "price": 128.00, "change": 1.26, "note": "still working back some of last week's slide tied to AI data-center spending concerns" }
+        { "ticker": "NVDA", "name": "Nvidia", "price": 213.78, "change": 3.13, "note": "extending its rebound as Asian chipmakers rally on Alphabet's raised AI capex plan" },
+        { "ticker": "AVGO", "name": "Broadcom", "price": 394.14, "change": 1.98 },
+        { "ticker": "MSFT", "name": "Microsoft", "price": 390.34, "change": -1.86, "note": "named among Morgan Stanley's highest-conviction AI-software picks even as the broader group saw mixed ratings action today" },
+        { "ticker": "GOOGL", "name": "Alphabet", "price": 342.09, "change": -2.81, "note": "fell after raising 2026 capex guidance to $205B despite a Q2 cloud-revenue beat (+82% to $24.8B), as investors want clearer proof AI spending converts to profit" },
+        { "ticker": "AMZN", "name": "Amazon", "price": 244.85, "change": -1.09 },
+        { "ticker": "ORCL", "name": "Oracle", "price": 126.31, "change": -1.32, "note": "still working through the same AI-capex-return debate weighing on peers this earnings season" }
       ]
     },
     {
@@ -33,12 +33,12 @@
       "label": "Chips & semiconductors",
       "icon": "cpu",
       "items": [
-        { "ticker": "NVDA", "name": "Nvidia", "price": 208.91, "change": 2.00 },
-        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 503.57, "change": 1.58, "note": "AMD's 'Advancing AI 2026' event this week (Zen 6 Venice CPU launch, MI400-series roadmap) is keeping sentiment upbeat after last week's Microsoft Helios deal" },
-        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 424.61, "change": 5.55, "note": "extending last week's post-earnings rally, up over 5% today as the broader chip rebound continues" },
-        { "ticker": "MU", "name": "Micron Technology", "price": 865.46, "change": 1.94 },
-        { "ticker": "ASML", "name": "ASML Holding", "price": 1801.51, "change": 3.59 },
-        { "ticker": "ARM", "name": "Arm Holdings", "price": 289.73, "change": 7.46 }
+        { "ticker": "NVDA", "name": "Nvidia", "price": 213.78, "change": 3.13 },
+        { "ticker": "AMD", "name": "Advanced Micro Devices", "price": 553.00, "change": 9.81, "note": "still riding this week's 'Advancing AI 2026' event momentum (Zen 6 Venice CPU, MI400-series roadmap)" },
+        { "ticker": "TSM", "name": "Taiwan Semiconductor", "price": 414.74, "change": -0.51, "note": "holding most of its recent post-earnings gains as the broader Asia chip rally continues" },
+        { "ticker": "MU", "name": "Micron Technology", "price": 959.39, "change": 10.85 },
+        { "ticker": "ASML", "name": "ASML Holding", "price": 1768.72, "change": -1.82 },
+        { "ticker": "ARM", "name": "Arm Holdings", "price": 283.40, "change": -2.18 }
       ]
     },
     {
@@ -46,10 +46,10 @@
       "label": "Robotics",
       "icon": "robot",
       "items": [
-        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 378.93, "change": -0.50, "note": "reporting Q2 earnings today; Wall Street's focus is squarely on Optimus production timing and robotaxi progress, with OpenAI's newly announced robotics division adding fresh competitive pressure" },
-        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 448.09, "change": 3.10, "note": "extending its bounce off last week's post-earnings low, even as procedure-growth guidance stays cautious" },
-        { "ticker": "TER", "name": "Teradyne", "price": 363.42, "change": 13.04, "note": "sharp rally alongside the broader chip-equipment complex ahead of its July 28 earnings; some of today's jump reflects thin, still-settling pricing data, worth confirming before treating as a clean signal" },
-        { "ticker": "9880.HK", "name": "UBTECH Robotics", "price": 82.10, "change": -4.61 }
+        { "ticker": "TSLA", "name": "Tesla (Optimus)", "price": 374.01, "change": -1.30, "note": "Q2 results missed estimates and 2026 capex guidance rose to $25B for AI infrastructure, Dojo 2, robotaxi and Optimus, with shares weakening post-earnings as OpenAI's new robotics division adds competitive pressure" },
+        { "ticker": "ISRG", "name": "Intuitive Surgical", "price": 340.69, "change": -2.68, "note": "still working through a cautious post-earnings guide on procedure growth" },
+        { "ticker": "TER", "name": "Teradyne", "price": 386.58, "change": 6.37, "note": "rallying with the broader chip-equipment complex ahead of its July 28 earnings; some of today's move likely reflects thin, still-settling pricing data, worth confirming before treating as a clean signal" },
+        { "ticker": "9880.HK", "name": "UBTECH Robotics", "price": 82.10, "change": -4.61, "note": "quote is a few sessions old; humanoid-robotics supply-chain names elsewhere (Ouster, Vishay Precision Group) are surging on Agility Robotics' Nasdaq SPAC debut" }
       ]
     },
     {
@@ -57,10 +57,10 @@
       "label": "AI software",
       "icon": "apps",
       "items": [
-        { "ticker": "PLTR", "name": "Palantir", "price": 132.66, "change": -1.39 },
-        { "ticker": "CRM", "name": "Salesforce", "price": 173.02, "change": 1.32 },
-        { "ticker": "NOW", "name": "ServiceNow", "price": 960.75, "change": 1.37, "note": "reports Q2 results today after the close, following IBM's warning that clients are shifting budget away from general software spend; today's price corrects a stale prior quote" },
-        { "ticker": "ADBE", "name": "Adobe", "price": 234.74, "change": -1.06, "note": "roughly flat, still digesting AI-disruption concerns" }
+        { "ticker": "PLTR", "name": "Palantir", "price": 124.57, "change": -6.40, "note": "down sharply, in line with a broader risk-off move across high-multiple AI software names today" },
+        { "ticker": "CRM", "name": "Salesforce", "price": 163.71, "change": -5.38, "note": "downgraded by Morgan Stanley to Equalweight with price target cut to $185, on concerns Agentforce adoption hasn't yet translated into faster subscription-revenue growth" },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 95.46, "change": -6.47, "note": "beat Q2 estimates and raised subscription guidance, but shares fell anyway as investors rotate away from richly valued AI software; price now reflects last December's 5-for-1 split, correcting a stale prior quote" },
+        { "ticker": "ADBE", "name": "Adobe", "price": 219.02, "change": -6.70, "note": "downgraded by Morgan Stanley to Underweight with price target cut to $240, citing a freemium pivot, a leadership transition, and AI-spending pressure on margins" }
       ]
     },
     {
@@ -68,10 +68,10 @@
       "label": "AI hardware & picks-and-shovels",
       "icon": "circuit-resistor",
       "items": [
-        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 34.77, "change": 5.41, "note": "bouncing back after last week's post-offering pullback" },
-        { "ticker": "VPG", "name": "Vishay Precision Group", "price": 130.29, "change": 21.13, "note": "quote data remains inconsistent across sources; today's reading is a rebound from the previously unreliable price and should be treated with some caution" },
-        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": 332.50, "change": 0.74 },
-        { "ticker": "SNPS", "name": "Synopsys", "price": 383.86, "change": -1.43 }
+        { "ticker": "OUST", "name": "Ouster (lidar)", "price": 40.48, "change": -0.49, "note": "up roughly 150% year-to-date on humanoid-robotics supply-chain demand, even as today's move is modest" },
+        { "ticker": "VPG", "name": "Vishay Precision Group", "price": 130.29, "change": 0.0, "note": "up nearly 270% year-to-date after booking over $37M in FY2025 humanoid-robotics orders; quote data has been inconsistent across sources and should be treated with some caution" },
+        { "ticker": "CDNS", "name": "Cadence Design Systems", "price": 337.01, "change": 4.46, "note": "bouncing back after last week's 8-10% slide tied to a Chinese AI model (Moonshot's Kimi K3) designing a chip without proprietary EDA tools; Mizuho and BNP both called the sell-off overdone" },
+        { "ticker": "SNPS", "name": "Synopsys", "price": 389.07, "change": -1.51, "note": "still working off last week's EDA-disruption sell-off, even as some analysts call the reaction overblown" }
       ]
     },
     {
@@ -79,8 +79,8 @@
       "label": "Crypto",
       "icon": "currency-bitcoin",
       "items": [
-        { "ticker": "BTC", "name": "Bitcoin", "price": 66246.28, "change": 3.29, "note": "risk appetite returning as spot Bitcoin ETFs post a fifth straight day of net inflows ($227M), even as the broader US-Iran standoff continues" },
-        { "ticker": "ETH", "name": "Ethereum", "price": 1940.73, "change": 4.20, "note": "extending its move above $1,900 as spot Ether ETFs add a fifth day of inflows" }
+        { "ticker": "BTC", "name": "Bitcoin", "price": 65654.25, "change": -0.47, "note": "consolidating in a $64K-$66.8K range after a 13% July rally off its July 1 low, with spot ETFs posting a second straight week of net inflows" },
+        { "ticker": "ETH", "name": "Ethereum", "price": 1926.58, "change": 0.07, "note": "roughly flat, holding its recent gains as risk appetite stays intact" }
       ]
     },
     {
@@ -89,11 +89,11 @@
       "icon": "shield-lock",
       "note": "Watched trades",
       "items": [
-        { "ticker": "CRWD", "name": "CrowdStrike", "price": 198.49, "change": -2.26, "note": "pulling back today even as cybersecurity broadly keeps outperforming the rest of enterprise software" },
-        { "ticker": "ZS", "name": "Zscaler", "price": 147.33, "change": -1.74, "note": "still below its tracked entry, even as cybersecurity names keep outperforming broader enterprise software" },
-        { "ticker": "NTAP", "name": "NetApp", "price": 163.39, "change": -0.30, "status": "watch" },
-        { "ticker": "U", "name": "Unity Software", "price": 44.55, "change": -2.09, "status": "ok", "note": "today's price corrects a stale prior quote" },
-        { "ticker": "NOW", "name": "ServiceNow", "price": 960.75, "change": 1.37, "note": "reports Q2 results today after the close, following IBM's warning on enterprise software budget shifts", "status": "watch" }
+        { "ticker": "CRWD", "name": "CrowdStrike", "price": 193.25, "change": -2.64, "note": "named among Morgan Stanley's highest-conviction Overweight picks in the same note that downgraded Adobe and Salesforce" },
+        { "ticker": "ZS", "name": "Zscaler", "price": 150.81, "change": 2.36, "note": "still below its tracked entry, even as cybersecurity names keep outperforming broader enterprise software" },
+        { "ticker": "NTAP", "name": "NetApp", "price": 167.29, "change": 2.39, "status": "watch" },
+        { "ticker": "U", "name": "Unity Software", "price": 29.20, "change": -2.28, "status": "ok" },
+        { "ticker": "NOW", "name": "ServiceNow", "price": 95.46, "change": -6.47, "note": "beat Q2 estimates and raised guidance but fell anyway; price now reflects last December's 5-for-1 split, correcting a stale prior quote", "status": "watch" }
       ]
     }
   ],
@@ -102,80 +102,80 @@
     "strongest": [
       {
         "area": "Chips & semiconductors",
-        "reason": "The global chip rally extended for a second session — Korea's Kospi jumped 4.6%, Nvidia climbed after taking a stake in neocloud provider Nebius, Taiwan Semiconductor rose over 5% on continued post-earnings momentum, and Arm rallied further after Jefferies raised its price target — all ahead of AMD's 'Advancing AI 2026' event and a wave of chip-adjacent earnings this week."
+        "reason": "Asian chipmakers rallied broadly (Kospi +2.8%) as Alphabet's plan to spend up to $200B this year on AI computing power reassured markets that AI infrastructure demand isn't slowing — Samsung and SK Hynix each gained over 3%, and Nvidia extended its own rebound."
       },
       {
         "area": "Cybersecurity",
-        "reason": "Cybersecurity names like Palo Alto Networks (+92% YTD), CrowdStrike (+74% YTD) and Fortinet (~+100% YTD) continue holding up even as parts of the broader AI trade wobble, with global cybersecurity spending forecast to top $300 billion in 2026."
+        "reason": "The Amplify Cybersecurity ETF (HACK) is up 15.4% over the past 30 days and hit a fresh 12-month high in early July; Morgan Stanley reinforced the sector's relative strength today by naming CrowdStrike and Palo Alto Networks among its highest-conviction Overweight picks in the same note that downgraded Adobe and Salesforce."
       }
     ],
     "weakest": [
       {
-        "area": "Robotics / physical AI",
-        "reason": "Tesla heads into today's Q2 print with Optimus still unavailable to the public and a new competitive threat from OpenAI's newly announced robotics division — feeding the same investor debate about whether robotaxi and Optimus progress can justify the AI investment cycle."
+        "area": "Enterprise software (ex-cybersecurity)",
+        "reason": "Morgan Stanley downgraded Adobe to Underweight (price target cut to $240 from $365) and Salesforce to Equalweight (target cut to $185 from $287), citing AI-transition risk and, for Salesforce, Agentforce adoption that hasn't yet moved the needle on subscription revenue growth; ServiceNow shares fell today despite beating Q2 estimates."
       },
       {
-        "area": "Enterprise software (ex-cybersecurity)",
-        "reason": "ServiceNow's Q2 report today lands after IBM's warning that clients are shifting budget away from general software spend toward security and infrastructure, and shares are down sharply year-to-date; Salesforce and Adobe are both trading mixed to lower into the same backdrop."
+        "area": "Big-tech AI capex",
+        "reason": "Alphabet and Tesla both reported real business strength (Alphabet's cloud revenue up 82%; Tesla raising 2026 capex) but shares in both fell on the size of their new spending guidance ($205B and $25B respectively), as investors push back on the AI-investment cycle until there's clearer proof it converts to profit."
       }
     ],
-    "nextStep": "Alphabet's and Tesla's earnings today are the more immediate, concrete catalysts worth a closer look, alongside ServiceNow's print after the close given the IBM-driven budget-shift questions hanging over enterprise software; the Fed's hawkish tilt under new Chair Kevin Warsh and the Iran-driven oil spike are still fluid and better watched than acted on until there's more clarity."
+    "nextStep": "The chip-sector rebound and cybersecurity's relative strength look like the more durable, multi-day trends worth a closer look; the Adobe/Salesforce downgrades and the Cadence/Synopsys EDA sell-off are sharper, single-catalyst moves better watched for confirmation before drawing conclusions, especially with the July 28-29 Fed meeting still ahead."
   },
   "signals": [
     {
       "tier": "macro",
       "severity": "warning",
-      "title": "Fed's hawkish tilt collides with a still-elevated oil shock",
-      "body": "New Fed Chair Kevin Warsh held rates at 3.50%-3.75% but shortened the policy statement, dropped forward guidance and formed task forces to review Fed process; roughly half of FOMC members reportedly indicated openness to a hike later this year if inflation doesn't cooperate. Separately, Brent crude is holding near $89/bbl and WTI near $83, up as US-Iran hostilities continue to threaten shipping through the Strait of Hormuz.",
-      "watch": "Upcoming inflation prints, further Fed commentary on hike odds, and whether shipping disruption in the Strait of Hormuz spreads.",
-      "focus": "Lower conviction right now — two fast-moving, partly overlapping macro risks with wide potential outcomes in either direction."
-    },
-    {
-      "tier": "chips",
-      "severity": "info",
-      "title": "Chip stocks extend their rebound as the global AI trade rallies again",
-      "body": "Asia-Pacific chip bellwethers led a broad rally (Kospi +4.6%), and Nvidia, Taiwan Semiconductor and Arm all extended gains — Nvidia after taking a stake in neocloud provider Nebius, TSM on continued post-earnings momentum, and Arm after Jefferies lifted its price target. AMD's 'Advancing AI 2026' event this week (Zen 6 Venice CPU, MI400-series roadmap) is the next catalyst.",
-      "watch": "Whether AMD's event and this week's other chip-adjacent earnings sustain the rebound or reignite the capex-fatigue concerns from earlier in July.",
-      "focus": "Worth a closer look — multiple concrete, company-specific catalysts are lining up in the same direction rather than just broad sentiment."
+      "title": "Fed expected to hold steady July 28-29, but inflation and energy costs keep the door open to a hike",
+      "body": "The federal funds rate has sat at 3.50%-3.75% since June under new Chair Kevin Warsh, and market-implied odds put an 79.5% chance the Fed holds again at its July 28-29 meeting. May's CPI print showed a 4.2% year-over-year rise, driven partly by a 23.5% surge in energy costs tied to Middle East tensions, which has kept traders wary of a later hike.",
+      "watch": "Any fresh inflation data ahead of the July 28-29 meeting, and whether Fed commentary shifts toward openness to tightening.",
+      "focus": "Lower conviction right now — a binary policy event is still a week away, with inflation data that could move it either direction."
     },
     {
       "tier": "ai_infra",
-      "severity": "info",
-      "title": "Alphabet's Q2 call today is the swing event for the AI-infrastructure trade",
-      "body": "Alphabet reports after the close today, with options pricing in a roughly 5.4% move. Focus areas include cloud profitability, 2027 capex guidance, and the rollout timeline for Gemini; Alphabet's stake in Anthropic has also been marked up sharply since March, which some analysts think could push reported EPS well above consensus.",
-      "watch": "Management's direct commentary on the Gemini timeline and capex guidance for 2027, and how peers react into their own earnings later this week.",
-      "focus": "Worth a closer look — this is likely the single biggest near-term catalyst for the AI-infrastructure group."
+      "severity": "warning",
+      "title": "Alphabet and Tesla both beat on parts of their business but sold off on bigger capex guidance",
+      "body": "Alphabet's Q2 cloud revenue rose 82% to $24.8B and consolidated revenue grew 24%, but shares fell as management raised 2026 capital-spending guidance to as much as $205B from $190B. Tesla's Q2 results missed estimates, and it raised its own 2026 capex guidance to $25B from $20B for AI infrastructure, Dojo 2, robotaxi manufacturing and Optimus — with OpenAI's newly announced robotics division adding fresh competitive pressure to the Optimus narrative.",
+      "watch": "Whether other AI-infrastructure names report similar capex increases this earnings season, and how the market treats spending-versus-returns questions going forward.",
+      "focus": "Lower conviction right now — strong underlying metrics are being overshadowed by investor skepticism about the size and payoff of AI capex."
     },
     {
-      "tier": "robotics",
-      "severity": "warning",
-      "title": "Tesla's earnings put the Optimus timeline under the microscope, with OpenAI now a rival",
-      "body": "Tesla reports Q2 results today with Optimus production still not public-facing; a converted Fremont line is reportedly targeting production between late July and August. Over the weekend, OpenAI announced a new dedicated robotics division, adding a fresh competitive question to the humanoid-robot narrative just as Tesla shares trade lower into the print.",
-      "watch": "Any specific Optimus production timeline Tesla gives today, and how OpenAI's robotics push is received by the market.",
-      "focus": "Lower conviction right now — the gap between the physical-AI narrative and near-term production reality is worth watching closely before drawing conclusions."
+      "tier": "ai_hardware",
+      "severity": "info",
+      "title": "Cadence and Synopsys bouncing back from an AI chip-design scare",
+      "body": "Both stocks sold off 8-10% last Friday after Moonshot AI's Kimi K3 model reportedly designed a functional chip in 48 hours using only open-source EDA tools, raising fears of disruption to the EDA industry. Mizuho and BNP both called the reaction overblown, with Mizuho arguing the model orchestrated existing open-source tools rather than replacing deterministic, physically accurate EDA software. Cadence is recovering more today than Synopsys.",
+      "watch": "Whether the 'buy the dip' analyst view holds up, or whether more AI-designed-chip demonstrations keep pressuring EDA valuations.",
+      "focus": "Worth a closer look — a concrete technical debate is playing out in real time with an observable, divergent price reaction across the two stocks."
     },
     {
       "tier": "ai_software",
       "severity": "warning",
-      "title": "ServiceNow's Q2 test lands after IBM's enterprise-software budget warning",
-      "body": "ServiceNow reports Q2 results today after the close, with consensus looking for roughly 22% year-over-year revenue growth driven by AI-native offerings like Now Assist. The print comes shortly after IBM warned that some clients are shifting budget away from general software spend, a dynamic that has weighed on ServiceNow, Salesforce and Adobe shares this year.",
-      "watch": "Whether ServiceNow's results and guidance confirm or push back on the IBM-driven budget-reallocation story.",
-      "focus": "Worth a closer look — this print is a read on enterprise AI software demand more broadly, not just one company."
+      "title": "Morgan Stanley draws a sharp line within enterprise software",
+      "body": "The firm downgraded Adobe to Underweight (price target cut to $240 from $365) and Salesforce to Equalweight (target cut to $185 from $287), citing AI-transition risk, a freemium pivot and leadership change at Adobe, and Agentforce adoption at Salesforce that hasn't yet accelerated subscription revenue. In the same note, it named Microsoft, ServiceNow, CrowdStrike, Palo Alto Networks, Cloudflare, Datadog and Snowflake as its highest-conviction Overweight picks — even as ServiceNow's own shares fell today despite beating Q2 estimates.",
+      "watch": "Whether other analysts follow with similar downgrades of legacy software names, and whether the winners Morgan Stanley named continue to separate from the group.",
+      "focus": "Worth a closer look — this is a specific, well-reasoned thesis about winners and losers within one theme rather than a broad sector call."
+    },
+    {
+      "tier": "robotics",
+      "severity": "info",
+      "title": "Humanoid-robotics supply chain keeps running hot on Agility Robotics' Nasdaq debut",
+      "body": "Agility Robotics' $2.5B SPAC merger with Churchill Capital Corp XI (expected to trade as AGLT) has driven big moves in supply-chain names: Vishay Precision Group is up roughly 269% year-to-date after booking over $37M in FY2025 humanoid orders, and Ouster is up about 150% year-to-date. This comes even as Tesla, the highest-profile humanoid name, saw shares weaken post-earnings on Optimus timeline questions.",
+      "watch": "Whether Agility Robotics' listing formally closes, and whether other humanoid-adjacent suppliers see similar order flow.",
+      "focus": "Worth a closer look — a new IPO is reshaping how the market prices this supply chain, somewhat independent of Tesla-specific execution risk."
     },
     {
       "tier": "crypto",
       "severity": "info",
-      "title": "Bitcoin and Ether ETFs post a fifth straight day of inflows as risk appetite returns",
-      "body": "US spot Bitcoin ETFs pulled in $227 million and spot Ether ETFs added $38 million, both marking a fifth consecutive day of net inflows. Futures open interest is up over 9% and options volume has more than doubled, even as the broader macro backdrop stays cautious with the US-Iran standoff ongoing.",
-      "watch": "Whether the inflow streak extends to a sixth day, which would strengthen the case that institutional demand is decoupling from the geopolitical risk-off mood.",
-      "focus": "Worth a closer look — a five-day inflow streak is a more concrete data point than day-to-day price swings."
+      "title": "Bitcoin consolidates after its best month since January as ETF inflows resume",
+      "body": "Bitcoin is holding in a $64,000-$66,800 range for a third straight session after rallying more than 13% off its July 1 low of $57,750. Spot Bitcoin ETFs posted positive net inflows for a second consecutive week — the first time that's happened since May — while TRON's addition to the S&P Pantera Digital Asset Index points to continued institutional benchmarking of the sector.",
+      "watch": "Whether the ETF inflow streak extends to a third week, and whether Bitcoin breaks out of its current range in either direction.",
+      "focus": "Worth a closer look — the multi-week inflow trend is a steadier data point than day-to-day price consolidation."
     },
     {
       "tier": "cyber_software",
       "severity": "info",
-      "title": "Cybersecurity keeps holding up even as parts of the AI trade wobble",
-      "body": "Cybersecurity names such as Palo Alto Networks, CrowdStrike and Fortinet are holding near highs even in sessions where broader AI and semiconductor names sell off, a divergence tied to resilient security budgets even as general software spend faces scrutiny. Global cybersecurity spending is forecast to exceed $300 billion in 2026.",
-      "watch": "Whether upcoming earnings from cybersecurity names confirm continued budget resilience, and whether the sector's premium valuations hold if the broader market rotates.",
+      "title": "Cybersecurity's outperformance gets a fresh vote of confidence",
+      "body": "The Amplify Cybersecurity ETF (HACK) is up 15.4% over the past 30 days and hit a 12-month high in early July. Today's Morgan Stanley note reinforced that strength, naming CrowdStrike and Palo Alto Networks among its highest-conviction Overweight picks in the same report that downgraded Adobe and Salesforce — underscoring the widening gap between security spending and general enterprise software budgets.",
+      "watch": "Upcoming cybersecurity earnings for confirmation of continued budget resilience, and whether premium valuations in the group hold if the broader market pulls back.",
       "focus": "Worth checking in on, but keep in mind some of this strength may already be priced into current valuations."
     }
   ]
