@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28",
+  "updated": "2026-07-29",
   "tiers": [
     {
       "id": "macro",
@@ -10,44 +10,44 @@
         {
           "ticker": "SPY",
           "name": "S&P 500 ETF",
-          "price": 739.09,
-          "change": 0.02,
-          "note": "little changed heading into Wednesday's Fed decision, even as the overnight chip-stock selloff pressured futures"
+          "price": 740.86,
+          "change": 0.24,
+          "note": "little changed heading into this afternoon's Fed decision, holding just above yesterday's close"
         },
         {
           "ticker": "QQQ",
           "name": "Nasdaq 100 ETF",
-          "price": 681.72,
-          "change": -1.12,
-          "note": "pressured by the deepening Asian memory-chip selloff (Samsung, SK Hynix) and lingering AI-financing headlines"
+          "price": 679.78,
+          "change": -0.28,
+          "note": "slightly softer as the chip-sector selloff continues to narrow toward the AI-infrastructure leaders"
         },
         {
           "ticker": "US10Y",
           "name": "10-year Treasury yield",
-          "price": 4.7,
-          "change": 0.07,
-          "note": "ticked back up as oil's sharp monthly rise keeps an inflation scare alive heading into the new Fed chair's first meeting"
+          "price": 4.62,
+          "change": -1.7,
+          "note": "eased back from last week's highs as softer oil prices took some air out of the inflation scare ahead of the Fed"
         },
         {
           "ticker": "WTI",
           "name": "Crude oil (WTI)",
-          "price": 82.62,
-          "change": -1.07,
-          "note": "holding in the low-$80s after last week's Iran de-escalation, though still up sharply for the month overall"
+          "price": 81.05,
+          "change": -1.9,
+          "note": "fell to its lowest level in over a week, giving back some of the month's sharp gains"
         },
         {
           "ticker": "GOLD",
           "name": "Gold (per oz)",
-          "price": 4073.88,
-          "change": -0.63,
-          "note": "eased back a bit as the dollar firmed"
+          "price": 4020.0,
+          "change": -1.32,
+          "note": "eased further as the dollar held steady and Fed-day caution kept safe-haven demand in check"
         },
         {
           "ticker": "DXY",
           "name": "US Dollar Index",
-          "price": 101.53,
-          "change": 0.35,
-          "note": "firmed modestly, a headwind for gold and other dollar-priced assets"
+          "price": 101.28,
+          "change": -0.25,
+          "note": "drifted down from last session's 15-month high as traders await the FOMC statement"
         }
       ]
     },
@@ -59,44 +59,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 196.51,
-          "change": -4.99,
-          "note": "fell further with the broader chip complex, with continued scrutiny of reported financing talks tied to a large AI customer"
+          "price": 197.58,
+          "change": 0.54,
+          "note": "held up and edged higher even as the broader chip complex kept selling off, reinforcing its status as the market's clearest AI-infrastructure leader"
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom",
-          "price": 383.22,
-          "change": 0.34,
-          "note": "held up better than chip peers, ticking higher even as the broader semiconductor complex sold off"
+          "price": 381.3,
+          "change": -0.5,
+          "note": "only modestly lower, again outperforming the second-tier chip names that are getting hit hardest"
         },
         {
           "ticker": "MSFT",
           "name": "Microsoft",
-          "price": 391.99,
-          "change": 2.7,
-          "note": "firmed ahead of Wednesday's after-the-close earnings; options markets are pricing in a roughly 7% move on Azure and AI-capex commentary"
+          "price": 397.24,
+          "change": 1.34,
+          "note": "firmed into this afternoon's earnings release, with Azure growth and AI-capex commentary the key focus"
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet",
-          "price": 347.15,
-          "change": -1.38,
-          "note": "gave back a slice of its recent rally but remains well above where it started last week"
+          "price": 333.71,
+          "change": -3.87,
+          "note": "gave back a chunk of its recent rally, tracking the broader risk-off tone ahead of the Fed"
         },
         {
           "ticker": "AMZN",
           "name": "Amazon",
-          "price": 231.39,
-          "change": -0.31,
-          "note": "little changed after a price-target hike from a major bank, with earnings due July 30"
+          "price": 231.14,
+          "change": -0.11,
+          "note": "little changed with earnings due July 30"
         },
         {
           "ticker": "ORCL",
           "name": "Oracle",
-          "price": 119.9,
-          "change": 5.05,
-          "note": "extended its rebound, still working through the broader AI-capex-return debate"
+          "price": 119.96,
+          "change": 0.05,
+          "note": "roughly flat, holding its recent rebound rather than extending it further"
         }
       ]
     },
@@ -108,42 +108,42 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 196.51,
-          "change": -4.99
+          "price": 197.58,
+          "change": 0.54
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices",
-          "price": 482.78,
-          "change": -7.51,
-          "note": "fell sharply along with the broader chip complex as Asian memory names crashed overnight"
+          "price": 453.37,
+          "change": -6.09,
+          "note": "sank further as the AI-chip trade keeps narrowing toward Nvidia and Broadcom, with higher-beta names like AMD, Marvell, and Intel getting trimmed hard"
         },
         {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor",
-          "price": 399.09,
-          "change": -1.07
+          "price": 384.5,
+          "change": -3.66
         },
         {
           "ticker": "MU",
           "name": "Micron Technology",
-          "price": 900.2,
-          "change": -2.25,
-          "note": "extended its slide as the Korea-led memory rout deepened; Samsung and SK Hynix posted their worst single-day falls in nearly two decades"
+          "price": 820.53,
+          "change": -8.85,
+          "note": "extended its slide as the Korea-led memory rout continues to weigh on the group"
         },
         {
           "ticker": "ASML",
           "name": "ASML Holding",
-          "price": 1805.57,
-          "change": 0.21,
-          "note": "roughly flat, holding up better than most chip-equipment peers"
+          "price": 1726.68,
+          "change": -4.37,
+          "note": "fell on fresh reports of progress by Chinese state-backed firms in immersion lithography, reviving competitive-threat concerns"
         },
         {
           "ticker": "ARM",
           "name": "Arm Holdings",
-          "price": 260.01,
-          "change": -4.19,
-          "note": "extended losses heading into Wednesday's fiscal Q1 earnings report"
+          "price": 246.5,
+          "change": -5.2,
+          "note": "extended its month-long slide heading into tonight's fiscal Q1 earnings report, one of today's key catalysts"
         }
       ]
     },
@@ -155,30 +155,30 @@
         {
           "ticker": "TSLA",
           "name": "Tesla (Optimus)",
-          "price": 305.12,
-          "change": -1.33,
-          "note": "eased slightly, still working through 2026 capex-guidance concerns even as Optimus development continues"
+          "price": 306.84,
+          "change": 0.56,
+          "note": "ticked up modestly, still working through 2026 capex-guidance concerns even as Optimus development continues"
         },
         {
           "ticker": "ISRG",
           "name": "Intuitive Surgical",
           "price": 356.83,
-          "change": 5.73,
-          "note": "extended its recovery off the post-earnings plunge from cautious procedure-growth guidance"
+          "change": 0.0,
+          "note": "held its recent recovery off the post-earnings plunge from cautious procedure-growth guidance"
         },
         {
           "ticker": "TER",
           "name": "Teradyne",
-          "price": 349.92,
-          "change": 0.0,
-          "note": "little changed heading into today's earnings report, a key read-through for AI-related test-equipment demand"
+          "price": 394.71,
+          "change": 12.8,
+          "note": "jumped after a Q2 beat ($1.33B revenue, $2.47 non-GAAP EPS vs. $2.09 consensus) and stronger Q3 guidance, a positive read-through for AI-related test-equipment demand"
         },
         {
           "ticker": "9880.HK",
           "name": "UBTECH Robotics",
-          "price": 78.6,
-          "change": -0.06,
-          "note": "roughly flat, even as some humanoid-component supply-chain names elsewhere surged on optimism"
+          "price": 76.9,
+          "change": -2.16,
+          "note": "eased back even as some humanoid-component supply-chain names elsewhere have surged recently"
         }
       ]
     },
@@ -190,30 +190,30 @@
         {
           "ticker": "PLTR",
           "name": "Palantir",
-          "price": 130.8,
-          "change": 6.41,
-          "note": "rallied sharply as enterprise-software names broadly rebounded on a rotation out of AI-infrastructure spending plays"
+          "price": 123.53,
+          "change": -5.56,
+          "note": "pulled back sharply, bucking the broader enterprise-software rally that lifted peers like Salesforce and ServiceNow"
         },
         {
           "ticker": "CRM",
           "name": "Salesforce",
           "price": 176.0,
-          "change": 7.54,
-          "note": "jumped as part of a coordinated software rally, with Agentforce annualized recurring revenue reportedly up sharply"
+          "change": 0.0,
+          "note": "held its recent sharp gain from the coordinated enterprise-software rally, with Agentforce annualized recurring revenue reportedly up sharply"
         },
         {
           "ticker": "NOW",
           "name": "ServiceNow",
           "price": 107.0,
-          "change": 8.32,
-          "note": "surged as AI-monetization products gain traction; price reflects last December's 5-for-1 split"
+          "change": 0.0,
+          "note": "held its recent surge; ServiceNow's AI products reportedly crossed $1 billion in annual contract value with agentic deployments up ninefold in nine months. Price reflects last December's 5-for-1 split"
         },
         {
           "ticker": "ADBE",
           "name": "Adobe",
-          "price": 225.11,
-          "change": 6.1,
-          "note": "held its recent gain from a bullish analyst call arguing AI-disruption fears are overdone"
+          "price": 241.0,
+          "change": 7.06,
+          "note": "extended its rally, building on the bullish analyst call arguing AI-disruption fears are overdone"
         }
       ]
     },
@@ -225,9 +225,9 @@
         {
           "ticker": "OUST",
           "name": "Ouster (lidar)",
-          "price": 39.35,
-          "change": 15.6,
-          "note": "surged along with other humanoid-robot component makers on supply-chain optimism"
+          "price": 33.91,
+          "change": -13.82,
+          "note": "gave back a chunk of its recent double-digit surge in humanoid-robot component names"
         },
         {
           "ticker": "VPG",
@@ -239,16 +239,16 @@
         {
           "ticker": "CDNS",
           "name": "Cadence Design Systems",
-          "price": 338.61,
-          "change": 0.47,
-          "note": "modestly higher, still working off the earlier EDA-disruption selloff"
+          "price": 337.01,
+          "change": -0.47,
+          "note": "roughly flat, still working off the earlier EDA-disruption selloff"
         },
         {
           "ticker": "SNPS",
           "name": "Synopsys",
-          "price": 373.47,
-          "change": -1.06,
-          "note": "modestly lower, still working through the same EDA-disruption overhang as Cadence"
+          "price": 362.34,
+          "change": -2.98,
+          "note": "eased further, still working through the same EDA-disruption overhang as Cadence"
         }
       ]
     },
@@ -260,16 +260,16 @@
         {
           "ticker": "BTC",
           "name": "Bitcoin",
-          "price": 63173.2,
-          "change": -2.82,
-          "note": "pulled back with the broader risk-off tone from the chip-sector selloff, though still holding within its recent range heading into Fed week"
+          "price": 63818.12,
+          "change": 1.02,
+          "note": "held above $63K ahead of today's Fed decision, though the fear-and-greed index remains subdued at 35"
         },
         {
           "ticker": "ETH",
           "name": "Ethereum",
-          "price": 1872.11,
-          "change": -3.26,
-          "note": "fell more than Bitcoin, giving back some of last week's relative outperformance"
+          "price": 1916.68,
+          "change": 2.38,
+          "note": "rebounded modestly, though it's testing a key resistance level heading into the Fed announcement"
         }
       ]
     },
@@ -283,21 +283,21 @@
           "ticker": "CRWD",
           "name": "CrowdStrike",
           "price": 180.11,
-          "change": -0.08,
-          "note": "roughly flat, still holding recent gains after multiple analyst price-target hikes on AI-security demand"
+          "change": 0.0,
+          "note": "held flat after management raised FY27 revenue guidance to $5.91-5.96 billion on AI-security demand"
         },
         {
           "ticker": "ZS",
           "name": "Zscaler",
-          "price": 147.1,
-          "change": 3.36,
-          "note": "firmed, above its tracked entry"
+          "price": 150.79,
+          "change": 2.51,
+          "note": "firmed further, above its tracked entry"
         },
         {
           "ticker": "NTAP",
           "name": "NetApp",
-          "price": 169.8,
-          "change": 1.23,
+          "price": 166.81,
+          "change": -1.76,
           "status": "watch"
         },
         {
@@ -312,8 +312,8 @@
           "ticker": "NOW",
           "name": "ServiceNow",
           "price": 107.0,
-          "change": 8.32,
-          "note": "surged as AI-monetization products gain traction; price reflects last December's 5-for-1 split",
+          "change": 0.0,
+          "note": "held its recent surge as AI-monetization products gain traction; price reflects last December's 5-for-1 split",
           "status": "watch"
         }
       ]
@@ -323,82 +323,82 @@
     "summary": "Not financial advice — this is a read of the public data and news above, meant to help you decide, not a recommendation. Always size positions and confirm with your own research.",
     "strongest": [
       {
-        "area": "Enterprise & AI-software rotation",
-        "reason": "Salesforce (+7.5%), ServiceNow (+8.3%), and Palantir (+6.4%) all rallied sharply as money rotated out of AI-infrastructure/chip spending plays and into software names that are starting to show they can monetize AI (Agentforce and ServiceNow AI revenue both reportedly scaling fast)."
+        "area": "AI-infrastructure leaders holding firm",
+        "reason": "Nvidia and Broadcom are essentially flat to slightly up even as the broader chip complex sells off hard, as capital consolidates into the clearest AI-infrastructure names ahead of a heavy earnings slate (Microsoft and Meta tonight, Arm tonight, Amazon tomorrow)."
       },
       {
-        "area": "Humanoid-robotics component supply chain",
-        "reason": "Ouster and other robot-sensor and component makers surged (Ouster +15.6%) on supply-chain optimism, even as the pure-play humanoid stock in this tracker (UBTECH) stayed roughly flat — a sign the strength is concentrated in components rather than broad-based yet."
+        "area": "Enterprise software & cybersecurity monetization story",
+        "reason": "Salesforce, ServiceNow, and Adobe are holding or extending recent sharp gains, with ServiceNow's AI annual contract value reportedly crossing $1 billion and CrowdStrike raising FY27 guidance — both reinforcing the theme that AI-monetizing software is outperforming AI-spending infrastructure names today."
       }
     ],
     "weakest": [
       {
-        "area": "Memory chips & the Asian semiconductor supply chain",
-        "reason": "Samsung and SK Hynix posted their worst single-day declines in nearly two decades, dragging Korea's Kospi down over 10% and Japan's Nikkei down as much as 4%, on renewed China chip-competition fears and jitters over reported large AI-financing deals; Micron, AMD, and Nvidia all fell in sympathy."
+        "area": "Second-tier chip and chip-equipment names",
+        "reason": "AMD, Arm, and Micron all fell sharply again as the AI-chip trade narrows to its clearest leaders, and ASML dropped on fresh reports of Chinese progress in immersion lithography reviving competitive-threat concerns."
       },
       {
-        "area": "Crypto & broader risk sentiment",
-        "reason": "Bitcoin (-2.8%) and Ethereum (-3.3%) both pulled back as the chip-sector selloff spilled into broader risk assets heading into Fed week, with market fear-sentiment readings staying subdued."
+        "area": "Risk sentiment broadly, ahead of the Fed",
+        "reason": "Alphabet, Palantir, and Ouster all pulled back, and crypto's fear-and-greed index sits at a subdued 35, reflecting a market that's cautious and event-driven rather than trending, with today's Fed decision the dominant variable."
       }
     ],
-    "nextStep": "Wednesday brings two major catalysts back-to-back — the Fed's rate decision (2pm ET, the new chair's first meeting) and Microsoft's earnings after the close — both worth watching closely rather than acting on ahead of time. Today's split between a crashing chip sector and a rallying software sector is the more textured, worth-a-closer-look signal, since it reflects a real reallocation across the AI trade rather than a single-name story."
+    "nextStep": "Today brings three major catalysts stacked together — the Fed's 2pm ET rate decision (Kevin Warsh's first meeting as chair, with markets pricing ~68.5% odds of a hold), Microsoft and Meta earnings after the close, and Arm's earnings tonight — all worth watching closely rather than acting on ahead of time. Teradyne's clean 12.8% earnings pop is the more distinct, worth-a-closer-look signal today, since it's a concrete, dated data point on AI-related test-equipment demand rather than macro speculation."
   },
   "signals": [
     {
-      "tier": "chips",
-      "severity": "danger",
-      "title": "Asian memory-chip crash drags Samsung and SK Hynix to their worst day in nearly two decades",
-      "body": "Samsung Electronics closed down roughly 13.4% and SK Hynix fell about 14.7%, pulling Korea's Kospi down over 10% and Japan's Nikkei down as much as 4% to its lowest level since May. The rout was driven by signs of progress in Chinese advanced chipmaking plus jitters over reports that a major AI customer is seeking a large financing backstop from a leading chipmaker, reviving worries about the sustainability of AI-capex spending. Nasdaq 100 futures fell nearly 1% in sympathy.",
-      "watch": "SK Hynix's next earnings print and any further headlines on Chinese chip-equipment progress or AI-infrastructure financing deals.",
-      "focus": "Worth a closer look — this is a much sharper, more broad-based move than the single-stock pullbacks seen recently, and it's dated and specific rather than vague AI-slowdown chatter."
-    },
-    {
-      "tier": "ai_software",
-      "severity": "info",
-      "title": "Enterprise software stages a coordinated rebound as money rotates out of AI infrastructure",
-      "body": "Salesforce, ServiceNow, and Palantir all jumped sharply even on a day when chip stocks were falling hard, as investors rotated from companies spending heavily to build AI toward companies showing they can use AI to grow revenue. Agentforce and ServiceNow's AI products were both cited as scaling quickly.",
-      "watch": "Whether the rotation holds through the week's remaining earnings (Microsoft Wednesday, Amazon Thursday) or reverses once AI-infrastructure fears cool.",
-      "focus": "Worth a closer look — a multi-name, cross-company rally on the same day chips are selling off looks like a real reallocation rather than one company's news."
-    },
-    {
       "tier": "macro",
       "severity": "warning",
-      "title": "Fed decision Wednesday is the new chair's first meeting, with oil-driven inflation risk still in play",
-      "body": "The Fed's July 28-29 meeting concludes Wednesday at 2pm ET with a press conference to follow — the first meeting under the recently installed Fed chair, who has signaled less forward guidance than his predecessor. Consensus expects rates held at 3.5-3.75% for a fifth straight meeting, but crude oil's roughly 20% rise for the month keeps a headline-inflation scare alive.",
-      "watch": "Wednesday's 2pm ET rate decision and press conference tone, especially any signal on how the new chair plans to communicate going forward.",
-      "focus": "Lower conviction right now — a first meeting under new leadership plus elevated oil-driven inflation risk is a lot of event risk to sit in front of."
+      "title": "Fed decision today is Kevin Warsh's first meeting as chair, with oil-driven inflation risk still lingering",
+      "body": "The FOMC concludes its two-day meeting today with a 2pm ET rate decision and 2:30pm press conference — the first meeting under new Fed Chair Kevin Warsh, who has offered few signals on his preferred communication style. CME FedWatch data puts the odds at roughly 68.5% for a hold at 3.50-3.75% (a fifth straight meeting unchanged) versus 31.5% for a hike, with the month's sharp oil-price rise keeping a headline-inflation scare alive.",
+      "watch": "The 2pm ET rate decision and, more importantly, the tone of the press conference for signals on how Warsh plans to communicate going forward.",
+      "focus": "Lower conviction right now — a first meeting under new leadership with meaningful hike odds still priced in is a lot of event risk to sit in front of."
     },
     {
-      "tier": "ai_infra",
-      "severity": "info",
-      "title": "Microsoft heads into Wednesday's earnings with options pricing a 7% move",
-      "body": "Microsoft reports fiscal Q4 results after the close Wednesday, with analysts expecting EPS of $4.24 (+16% year over year) and revenue near $87.6 billion (+15%). Wall Street's focus is on Azure growth, AI-services demand, and whether heavy data-center capex is translating into returns.",
-      "watch": "Azure growth rate and any updated capex guidance on the earnings call.",
-      "focus": "Worth a closer look — a large, dated catalyst that will likely set the tone for AI-infrastructure sentiment into month-end."
+      "tier": "chips",
+      "severity": "danger",
+      "title": "AI-chip trade narrows sharply to Nvidia and Broadcom as second-tier names get cut hard",
+      "body": "AMD fell roughly 9% intraday, Arm dropped about 7% ahead of tonight's earnings, and Intel and Marvell also sold off, while Nvidia and Broadcom were roughly flat to slightly higher. Analysts describe this as investors consolidating exposure into the clearest AI-infrastructure leaders and trimming richly priced, higher-beta satellite names ahead of this week's heavy Big Tech earnings slate, rather than any single piece of negative company news.",
+      "watch": "Arm's earnings tonight and whether the leader/laggard gap narrows or widens further once Microsoft and Meta report.",
+      "focus": "Worth a closer look — a broad-based rotation within the same sector, rather than a single-stock story, tends to be more informative than an isolated move."
     },
     {
-      "tier": "crypto",
+      "tier": "chips",
       "severity": "warning",
-      "title": "Bitcoin and Ethereum pull back as chip-sector selloff spills into broader risk assets",
-      "body": "Bitcoin fell to around $63,200 (-2.8%) and Ethereum to about $1,872 (-3.3%), giving back some of last week's relative calm as the memory-chip crash pushed broader risk sentiment lower heading into the Fed decision.",
-      "watch": "Whether crypto continues trading in sympathy with tech-equity risk-off moves through the Fed announcement, or decouples again once the meeting passes.",
-      "focus": "Lower conviction right now — a pullback that tracks a broader risk-off day is less informative than an isolated, crypto-specific move would be."
+      "title": "ASML falls on fresh reports of Chinese progress in immersion lithography",
+      "body": "ASML shares dropped roughly 4% after reports that Chinese state-backed firms have advanced in producing immersion lithography equipment, reviving longstanding concerns about ASML's competitive moat amid U.S.-China tech tensions. Some analysts view the reaction as overdone given ASML's multi-year lead in extreme ultraviolet lithography specifically.",
+      "watch": "Any official ASML response or additional detail on the reported Chinese equipment's actual capability versus ASML's current technology.",
+      "focus": "Lower conviction right now — early-stage, second-hand reports about a competitor's progress are harder to verify than a dated, company-specific catalyst."
     },
     {
       "tier": "robotics",
       "severity": "info",
-      "title": "Humanoid-robot component makers surge on supply-chain optimism",
-      "body": "Robot-sensor and component makers including Ouster jumped double digits on reports of improving supply-chain conditions for humanoid-robot production, even as the pure-play humanoid name in this tracker, UBTECH, stayed roughly flat and Teradyne sat still ahead of its own earnings report today.",
-      "watch": "Teradyne's earnings today for a read on AI-related test-equipment demand, and whether the component rally broadens to UBTECH and other humanoid-adjacent names.",
-      "focus": "Worth a closer look — a sharp, dated move in components is a useful early signal, though it hasn't yet spread to the pure-play names."
+      "title": "Teradyne jumps 12.8% on a clean Q2 beat and raised guidance",
+      "body": "Teradyne reported Q2 revenue of $1.33 billion (nearly double last year's figure) and non-GAAP EPS of $2.47, well above the $2.09 consensus estimate, and raised Q3 guidance to $1.85-$2.15 EPS. Shares jumped in response, a notable positive data point for AI-related semiconductor test-equipment demand on a day when most of the chip complex sold off.",
+      "watch": "Whether other test-and-measurement or equipment names see similar demand commentary in upcoming earnings.",
+      "focus": "Worth a closer look — a concrete, better-than-expected earnings beat with raised guidance is one of the more dated and verifiable signals in today's update."
     },
     {
-      "tier": "cyber_software",
+      "tier": "ai_software",
       "severity": "info",
-      "title": "Cybersecurity holds recent gains on continued analyst price-target hikes",
-      "body": "CrowdStrike and peers have continued to hold up on AI-security demand, with multiple analysts raising price targets in recent weeks (one to $230, another to $235) citing strength across identity, SIEM, and AI-driven detection products.",
-      "watch": "Whether the group's relative strength persists through upcoming peer earnings and any follow-through from recent partnership announcements.",
-      "focus": "Worth a closer look — this remains a multi-week pattern of analyst upgrades rather than a single day's move."
+      "title": "Enterprise software and cybersecurity extend their rally, monetizing AI rather than spending on it",
+      "body": "Salesforce, ServiceNow, and Workday all surged in recent sessions and are holding those gains today, with ServiceNow's AI products reportedly crossing $1 billion in annual contract value and agentic deployments up ninefold in nine months. CrowdStrike separately raised its FY27 revenue guidance to $5.91-5.96 billion on AI-security demand. Palantir is a notable exception, pulling back roughly 5.6% even as peers rally.",
+      "watch": "Whether the rotation into AI-monetizing software holds through Microsoft and Meta's earnings tonight, and whether Palantir's divergence from the group persists or reverses.",
+      "focus": "Worth a closer look — multiple companies posting similar AI-monetization data points on the same day looks like a real theme rather than one company's news."
+    },
+    {
+      "tier": "crypto",
+      "severity": "warning",
+      "title": "Bitcoin and Ethereum tick higher but sentiment stays cautious ahead of the Fed",
+      "body": "Bitcoin held above $63,000 (+1.0%) and Ethereum gained about 2.4%, but the crypto fear-and-greed index sits at a subdued 35, and multiple market commentators describe both assets as still under pressure and testing key technical levels heading into today's Fed decision.",
+      "watch": "How crypto reacts to the 2pm ET rate decision and press conference tone, given its recent tendency to trade in sympathy with broader risk assets.",
+      "focus": "Lower conviction right now — modest gains against a backdrop of subdued sentiment and a major pending catalyst make this a wait-and-see setup rather than a clear signal."
+    },
+    {
+      "tier": "ai_infra",
+      "severity": "info",
+      "title": "Microsoft, Meta, and Arm all report earnings today — a pivotal moment for the AI trade",
+      "body": "Microsoft and Meta report after today's close, with Arm reporting the same evening, making this one of the most consequential single days of the earnings season for AI-infrastructure sentiment. Focus areas include Azure growth and AI-capex commentary for Microsoft, and how each company frames the return on heavy AI spending given the recent volatility in chip stocks.",
+      "watch": "Azure growth rate, any updated capex guidance, and Arm's own results given its rough month heading into tonight's print.",
+      "focus": "Worth a closer look — three large, dated catalysts landing on the same day will likely set the tone for the AI trade into month-end."
     }
   ]
 }
