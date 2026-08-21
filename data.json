@@ -10,44 +10,44 @@
         {
           "ticker": "SPY",
           "name": "S&P 500 ETF",
-          "price": 770.8,
-          "change": 0.21,
-          "note": "edged higher as the index snapped a three-day losing streak, helped by a firmer Treasury buyback outlook"
+          "price": 764.79,
+          "change": 0.29,
+          "note": "edged higher in early trading, bouncing after Thursday's decline as futures advanced on Treasury Secretary Bessent's comments on Iran"
         },
         {
           "ticker": "QQQ",
           "name": "Nasdaq 100 ETF",
           "price": 710.93,
           "change": -0.72,
-          "note": "slipped as tech and chip names stayed under pressure ahead of Nvidia's August 26 earnings"
+          "note": "slipped as chip and AI-infrastructure names stayed under pressure ahead of Nvidia's August 26 earnings"
         },
         {
           "ticker": "US10Y",
           "name": "10-year Treasury yield",
-          "price": 4.63,
-          "change": -0.06,
-          "note": "eased slightly off multidecade highs after Treasury signaled scope for larger long-term debt buybacks"
+          "price": 4.70,
+          "change": 0.07,
+          "note": "ticked back up after briefly easing, with the 30-year yield having touched its highest level since 2007 earlier this week"
         },
         {
           "ticker": "WTI",
           "name": "Crude oil (WTI)",
-          "price": 85.67,
-          "change": 0.86,
-          "note": "extended its climb as the Iran-Strait of Hormuz standoff kept a geopolitical premium in oil"
+          "price": 86.64,
+          "change": -0.22,
+          "note": "held near recent highs as the Iran-related geopolitical premium persists, with Bessent warning of the 'toughest sanctions in history'"
         },
         {
           "ticker": "GOLD",
           "name": "Gold",
-          "price": 4553.35,
-          "change": 0.18,
-          "note": "ticked higher, still supported by the mix of rate and geopolitical uncertainty"
+          "price": 4618.39,
+          "change": 1.03,
+          "note": "climbed further, supported by the mix of elevated yields and geopolitical uncertainty"
         },
         {
           "ticker": "DXY",
           "name": "US Dollar Index",
-          "price": 98.86,
-          "change": 0.03,
-          "note": "roughly flat, still range-bound near multi-month lows on Fed rate-path uncertainty"
+          "price": 98.80,
+          "change": 0.05,
+          "note": "roughly flat after recovering from a three-month low on stronger jobless-claims and Philly Fed data"
         }
       ]
     },
@@ -59,44 +59,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 217.56,
-          "change": -0.74,
-          "note": "eased slightly as the sector digests a reported $500B Wall Street AI-chip financing pact ahead of August 26 earnings"
+          "price": 217.51,
+          "change": -0.5,
+          "note": "choppy after a report that it plans a modified AI chip for China using licensed Groq technology; gains pared into the close"
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom",
-          "price": 365.8,
-          "change": -3.74,
-          "note": "fell further with the broader chip complex sell-off"
+          "price": 363.10,
+          "change": 0.17,
+          "note": "edged higher, a rare steady note in an otherwise mixed AI-infrastructure tape"
         },
         {
           "ticker": "MSFT",
           "name": "Microsoft",
-          "price": 481.68,
-          "change": 0.01,
-          "note": "roughly flat, holding up better than most megacaps on continued AI capex conviction"
+          "price": 481.10,
+          "change": -0.84,
+          "note": "eased slightly even as analysts continue to flag it among the best-positioned AI/software names"
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet",
-          "price": 354.3,
+          "price": 354.30,
           "change": -0.96,
-          "note": "eased slightly despite continued hyperscaler AI capex commitments"
+          "note": "pulled back modestly alongside megacap tech"
         },
         {
           "ticker": "AMZN",
           "name": "Amazon",
-          "price": 260.94,
-          "change": -1.84,
-          "note": "pulled back modestly alongside megacap tech"
+          "price": 260.19,
+          "change": -2.13,
+          "note": "one of the weaker megacaps today, extending its recent pullback"
         },
         {
           "ticker": "ORCL",
           "name": "Oracle",
-          "price": 141.68,
-          "change": -3.39,
-          "note": "extended its slide, continuing to lag AI-infrastructure peers"
+          "price": 161.75,
+          "change": 3.70,
+          "note": "jumped sharply, a notable reversal after weeks of lagging AI-infrastructure peers"
         }
       ]
     },
@@ -108,44 +108,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 217.56,
-          "change": -0.74,
-          "note": "eased slightly as the sector digests a reported $500B Wall Street AI-chip financing pact ahead of August 26 earnings"
+          "price": 217.51,
+          "change": -0.5,
+          "note": "choppy after a report that it plans a modified AI chip for China using licensed Groq technology; gains pared into the close"
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices",
-          "price": 465.0,
-          "change": -4.0,
-          "note": "dropped again as the AI-chip trade continued to unwind following SK Hynix-related jitters"
+          "price": 462.87,
+          "change": -3.8,
+          "note": "dropped again as the broader chip-stock rally hits a speed bump"
         },
         {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor",
-          "price": 414.28,
-          "change": 0.56,
-          "note": "edged higher, a rare bright spot in an otherwise soft chip tape"
+          "price": 413.88,
+          "change": 0.39,
+          "note": "edged higher, holding up better than most chip peers"
         },
         {
           "ticker": "MU",
           "name": "Micron",
-          "price": 972.67,
-          "change": 3.8,
-          "note": "rebounded toward the $1,000 level after last week's memory-led pullback"
+          "price": 974.33,
+          "change": 0.85,
+          "note": "extended its recent climb near record levels on continued memory-demand strength"
         },
         {
           "ticker": "ASML",
           "name": "ASML",
-          "price": 1750.0,
+          "price": 1751.73,
           "change": -2.84,
-          "note": "fell further on renewed concern over China's progress in domestic DUV lithography tooling"
+          "note": "fell further amid a broader bond-market rout weighing on richly-valued growth names"
         },
         {
           "ticker": "ARM",
           "name": "Arm Holdings",
-          "price": 246.04,
-          "change": -0.95,
-          "note": "eased modestly, holding up better than most chip peers"
+          "price": 248.08,
+          "change": -0.48,
+          "note": "eased modestly, still well off its highs for the year"
         }
       ]
     },
@@ -157,30 +157,30 @@
         {
           "ticker": "TSLA",
           "name": "Tesla",
-          "price": 351.12,
-          "change": 4.23,
-          "note": "jumped on continued momentum in delivery and robotaxi-related headlines"
+          "price": 345.13,
+          "change": -1.71,
+          "note": "pulled back after its recent run, with elevated Treasury yields pressuring long-duration growth names broadly"
         },
         {
           "ticker": "ISRG",
           "name": "Intuitive Surgical",
-          "price": 352.0,
-          "change": -12.5,
+          "price": 374.48,
+          "change": -5.84,
           "note": "dropped sharply; a notably outsized move worth confirming before reading too much into it"
         },
         {
           "ticker": "TER",
           "name": "Teradyne",
-          "price": 382.11,
-          "change": 0.65,
-          "note": "recovered a piece of last week's semiconductor test-equipment selloff"
+          "price": 383.15,
+          "change": 0.92,
+          "note": "edged higher even after a valuation-driven downgrade to Neutral from Baird following its strong recent run"
         },
         {
           "ticker": "9880.HK",
           "name": "UBTECH Robotics",
-          "price": 83.5,
-          "change": 2.77,
-          "note": "bounced after last session's sharp drop; quote data remains thinner for this listing, so treat with some caution"
+          "price": 83.60,
+          "change": -4.97,
+          "note": "fell back after Unitree's blockbuster 600%+ Shanghai trading debut redirected some speculative capital toward the newer listing; quote data remains thinner for this listing"
         }
       ]
     },
@@ -193,29 +193,29 @@
           "ticker": "PLTR",
           "name": "Palantir",
           "price": 173.96,
-          "change": 1.41,
-          "note": "edged higher, a modest bounce after weeks of AI-disruption-driven pressure on enterprise software"
+          "change": -0.7,
+          "note": "eased slightly, giving back a small piece of its recent strength"
         },
         {
           "ticker": "CRM",
           "name": "Salesforce",
-          "price": 205.57,
-          "change": 4.81,
-          "note": "rose sharply, one of the stronger enterprise-software names today"
+          "price": 205.43,
+          "change": -0.32,
+          "note": "roughly flat ahead of its August 26 earnings report"
         },
         {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "price": 128.09,
-          "change": 7.2,
-          "note": "jumped, a sharp bounce after a rough stretch tied to AI-agent disruption fears"
+          "price": 128.85,
+          "change": 1.3,
+          "note": "rose again after BofA raised its price target, part of a broader bullish call on AI-exposed software names"
         },
         {
           "ticker": "ADBE",
           "name": "Adobe",
           "price": 272.22,
-          "change": 3.51,
-          "note": "rose on continued momentum from its Firefly AI assistant expansion"
+          "change": -0.09,
+          "note": "roughly flat after BofA lifted its price target alongside ServiceNow and Workday on renewed software optimism"
         }
       ]
     },
@@ -227,30 +227,30 @@
         {
           "ticker": "OUST",
           "name": "Ouster",
-          "price": 27.62,
-          "change": -0.75,
-          "note": "eased slightly; quote data remains thin and choppy for this name"
+          "price": 37.95,
+          "change": -4.92,
+          "note": "dropped; quote data remains thin and choppy for this name"
         },
         {
           "ticker": "VPG",
           "name": "Vishay Precision Group",
-          "price": 62.02,
-          "change": -5.83,
-          "note": "dropped sharply; quote data remains thin for this name and the move should be treated with caution"
+          "price": 65.56,
+          "change": null,
+          "note": "quote data was inconsistent across sources today and a reliable percent change couldn't be confirmed; treat with caution"
         },
         {
           "ticker": "CDNS",
           "name": "Cadence Design Systems",
-          "price": 314.98,
-          "change": -0.49,
-          "note": "eased slightly despite continued AI-chip-design demand tailwinds"
+          "price": 316.52,
+          "change": -2.15,
+          "note": "fell alongside the broader software/chip-design complex"
         },
         {
           "ticker": "SNPS",
           "name": "Synopsys",
-          "price": 397.81,
-          "change": -0.78,
-          "note": "roughly flat, still holding up on AI-chip-design tailwinds"
+          "price": 404.41,
+          "change": -2.13,
+          "note": "declined in step with Cadence, still holding up on longer-term AI-chip-design tailwinds"
         }
       ]
     },
@@ -262,16 +262,16 @@
         {
           "ticker": "BTC",
           "name": "Bitcoin",
-          "price": 71980.32,
-          "change": 11.1,
-          "note": "surged after the White House pushed Congress on the Clarity Act and the Treasury expanded its bond buyback program"
+          "price": 76675.12,
+          "change": 6.66,
+          "note": "surged, up roughly 12% over two days as Trump and crypto executives push Congress for a final vote on the Clarity Act"
         },
         {
           "ticker": "ETH",
           "name": "Ethereum",
-          "price": 2293.1,
-          "change": 17.5,
-          "note": "surged alongside Bitcoin on the same regulatory and buyback-driven tailwinds"
+          "price": 2351.61,
+          "change": 3.7,
+          "note": "rose alongside Bitcoin on the same regulatory-clarity tailwind"
         }
       ]
     },
@@ -284,16 +284,16 @@
         {
           "ticker": "CRWD",
           "name": "CrowdStrike",
-          "price": 196.79,
-          "change": -5.19,
-          "note": "dropped sharply after its CTO's departure to launch an AI/cyber venture fund, even as sector fundamentals stay strong"
+          "price": 190.60,
+          "change": -5.47,
+          "note": "pulled back from recent highs on profit-taking after its summer stock split, even as analysts stayed bullish and raised price targets"
         },
         {
           "ticker": "ZS",
           "name": "Zscaler",
-          "price": 179.71,
-          "change": -2.54,
-          "note": "pulled back with the broader cyber pullback despite a still-bullish analyst consensus"
+          "price": 179.81,
+          "change": -0.59,
+          "note": "eased slightly with the broader cyber pullback"
         },
         {
           "ticker": "NTAP",
@@ -301,7 +301,7 @@
           "price": 205.75,
           "change": 0.74,
           "status": "watch",
-          "note": "rose modestly, continuing to hold near its recent AI-infrastructure-driven highs"
+          "note": "held near its recent AI-infrastructure-driven highs"
         },
         {
           "ticker": "U",
@@ -314,94 +314,94 @@
         {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "price": 128.09,
-          "change": 7.2,
+          "price": 128.85,
+          "change": 1.3,
           "status": "watch",
-          "note": "jumped, a sharp bounce after a rough stretch tied to AI-agent disruption fears"
+          "note": "rose again after BofA raised its price target, part of a broader bullish call on AI-exposed software names"
         }
       ]
     }
   ],
   "outlook": {
-    "summary": "Not financial advice \u2014 this is a personal tracking dashboard meant to organize publicly available information for research purposes. Always size positions and confirm with your own research.",
+    "summary": "Not financial advice — this is a personal tracking dashboard meant to organize publicly available information for research purposes. Always size positions and confirm with your own research.",
     "strongest": [
       {
         "area": "Crypto, led by Bitcoin and Ethereum",
-        "reason": "both surged after the White House pushed Congress to advance the Clarity Act, which would clarify whether cryptocurrencies are regulated as securities or commodities, alongside an expanded Treasury bond buyback program that also lifted risk appetite broadly"
+        "reason": "Bitcoin is up roughly 12% over two days as Trump and crypto industry executives make a final push for Congress to pass the Clarity Act, which would clarify whether digital assets are regulated as securities or commodities"
       },
       {
-        "area": "AI/enterprise software, led by ServiceNow, Salesforce, Palantir, and Adobe",
-        "reason": "all four bounced today after a rough multi-week stretch driven by AI-agent disruption fears, with Adobe additionally helped by its expanding Firefly AI assistant rollout; still an open question whether this is a real trend shift or a one-day pop"
+        "area": "AI/enterprise software, led by ServiceNow, Adobe, Oracle, and Salesforce",
+        "reason": "BofA raised price targets across a batch of AI-exposed software names this week, and Oracle jumped sharply today, extending a broader recovery in software sentiment after months of AI-disruption fears"
       }
     ],
     "weakest": [
       {
-        "area": "AI infrastructure & cloud megacaps, led by Broadcom, Oracle, Amazon, and Alphabet",
-        "reason": "all declined again even as reports of a roughly $500 billion Nvidia-Wall Street AI-chip financing pact underscore continued institutional conviction in the broader capex buildout"
+        "area": "Chips and AI hardware, led by AMD, ASML, Arm, Cadence, and Synopsys",
+        "reason": "the chip-stock rally hit a speed bump as elevated long-term Treasury yields pressured richly-valued growth names, even with a mixed Nvidia headline on a possible China AI chip return"
       },
       {
-        "area": "Chips and AI-hardware picks-and-shovels, led by AMD, ASML, Arm, Vishay, and Cadence",
-        "reason": "the sector remains soft as it digests last week's SK Hynix-driven selloff and renewed concern over China's progress in domestic lithography tooling, with Nvidia's August 26 earnings the next major catalyst"
+        "area": "Robotics and single-name cybersecurity, led by Intuitive Surgical, UBTECH, and CrowdStrike",
+        "reason": "Intuitive Surgical's drop looks like an outsized move worth confirming, UBTECH cooled as capital rotated toward Unitree's blowout Shanghai debut, and CrowdStrike is pulling back from highs on profit-taking rather than new bearish news"
       }
     ],
-    "nextStep": "Nvidia's August 26 earnings report is probably the single most important thing to watch given how much the chip and AI-infrastructure tiers are gyrating ahead of it. Today's bounce in enterprise software and the sharp crypto rally are worth noting but are better treated as one-day moves to watch confirm over the next few sessions than as confirmed trend reversals."
+    "nextStep": "Nvidia's China AI-chip headline and its August 26 earnings report are probably the two most important things to watch for the chip and AI-infrastructure tiers over the next week. Today's crypto surge and the software-sector bounce are worth noting but are better treated as still-developing moves to watch confirm over the next few sessions than as settled trend reversals."
   },
   "signals": [
     {
       "tier": "macro",
       "severity": "info",
-      "title": "Treasury buyback expansion helps yields ease off multidecade highs",
-      "body": "The Fed held rates at 3.50%-3.75% in July for a fifth straight meeting, with three dissents favoring a hike, leaving a September move in play given inflation still running well above target. Separately, Treasury Secretary Bessent flagged scope for larger long-term debt buybacks, which helped the 30-year yield ease back from this week's near two-decade high and supported a broad-market bounce.",
-      "watch": "US10Y, DXY, SPY, QQQ",
-      "focus": "worth a closer look at whether the buyback-driven yield relief holds into the September Fed meeting"
+      "title": "Bessent threatens 'toughest sanctions in history' on Iran as yields stay elevated",
+      "body": "Treasury Secretary Bessent said the US would levy the toughest sanctions in its history against Iran, helping lift futures and keeping a geopolitical premium in oil. Separately, the 30-year Treasury yield touched its highest level since 2007 earlier this week before easing slightly, and the Fed has now held rates steady at 3.50%-3.75% for multiple consecutive meetings with one 2026 cut still penciled in.",
+      "watch": "SPY, US10Y, WTI, DXY",
+      "focus": "worth a closer look at whether elevated long-term yields keep weighing on richly-valued growth names into the September Fed meeting"
     },
     {
       "tier": "chips",
       "severity": "warning",
-      "title": "Chip complex stays soft as ASML flags China lithography competition",
-      "body": "ASML fell further on renewed concern that Chinese firms are making progress on domestic DUV lithography tooling, which could pressure a slice of its China-related business. AMD and Arm also stayed under pressure, while Micron and TSMC bounced modestly. The sector remains in a holding pattern ahead of Nvidia's August 26 earnings.",
-      "watch": "ASML, AMD, ARM, MU, TSM, NVDA",
-      "focus": "worth a closer look at whether this is routine digestion after a strong run or the start of a deeper correction into earnings"
+      "title": "Chip-stock rally hits a speed bump as yields bite",
+      "body": "AMD, ASML, and Arm all traded lower today as a multi-week chip-stock rally cooled, with several analysts pointing to elevated long-duration Treasury yields pressuring expensive growth names rather than any single negative catalyst. Nvidia was choppy after a report it plans a modified, China-specific AI chip using licensed Groq technology, a headline that briefly lifted shares before gains were pared.",
+      "watch": "AMD, ASML, ARM, NVDA",
+      "focus": "worth a closer look at whether this is routine digestion after a strong run or a deeper valuation reset ahead of Nvidia's August 26 earnings"
     },
     {
       "tier": "ai_infra",
       "severity": "info",
-      "title": "Nvidia lines up roughly $500B in Wall Street financing for AI chip buildout",
-      "body": "Nvidia has reportedly struck a financing pact with Wall Street firms worth up to $500 billion to fund AI chip production, and separately agreed to support OpenAI's Ohio data center buildout with financing of up to $105 billion. Hyperscaler capex commitments remain intact even as Broadcom, Oracle, Amazon, and Alphabet all traded lower today.",
-      "watch": "NVDA, MSFT, AVGO, ORCL",
-      "focus": "worth a closer look at which suppliers are best positioned to capture this financing-backed spending independent of daily price swings"
+      "title": "Oracle jumps while megacap AI-infrastructure peers stay soft",
+      "body": "Oracle rose sharply today, a notable reversal after weeks of lagging its hyperscaler peers, while Amazon, Alphabet, and Microsoft all traded lower. Nvidia's reported plan to re-enter the China market with a modified AI chip underscores continued efforts to defend its AI infrastructure position even as competitors chip away at its lead.",
+      "watch": "ORCL, AMZN, GOOGL, MSFT, NVDA",
+      "focus": "worth watching whether Oracle's bounce holds or proves to be a one-day move relative to the broader infrastructure group"
     },
     {
       "tier": "ai_software",
       "severity": "info",
-      "title": "Enterprise software bounces after weeks of AI-disruption-driven selling",
-      "body": "ServiceNow, Salesforce, Palantir, and Adobe all rose today, a notable reversal after a months-long pattern where fears that AI agents and coding tools would erode SaaS pricing power outweighed solid fundamentals. Adobe's move was helped by continued rollout of its Firefly AI assistant.",
-      "watch": "NOW, CRM, PLTR, ADBE",
-      "focus": "worth watching over the next few sessions to see whether this is a genuine sentiment shift or a one-day bounce"
+      "title": "BofA lifts price targets across AI-exposed software names",
+      "body": "Bank of America raised price targets on a batch of software companies including ServiceNow and Adobe, citing growing conviction that AI will be a net positive for the group rather than a disruptive threat, fueling a broader rally in software sentiment this week. ServiceNow rose again on the news.",
+      "watch": "NOW, ADBE, CRM, PLTR",
+      "focus": "worth watching over the next few sessions to see whether this analyst-driven optimism translates into a durable sentiment shift"
     },
     {
       "tier": "crypto",
       "severity": "info",
-      "title": "Bitcoin and Ethereum surge on Clarity Act push and Treasury buybacks",
-      "body": "Bitcoin and Ethereum both jumped sharply after the White House pushed Congress to advance the Clarity Act, which would clarify whether crypto assets are treated as securities or commodities, while an expanded Treasury bond buyback program also lifted broader risk appetite.",
+      "title": "Bitcoin surges 12% in two days as Trump pushes final Clarity Act vote",
+      "body": "Bitcoin and Ethereum both jumped as Trump and crypto industry executives lead a last-ditch push for Congress to pass the Clarity Act before the current session winds down, which would settle whether digital assets are regulated as securities or commodities.",
       "watch": "BTC, ETH",
-      "focus": "worth a closer look at whether the regulatory tailwind translates into sustained institutional inflows or proves to be a short-lived pop"
+      "focus": "worth a closer look at whether this translates into sustained institutional flows once (or if) the legislation actually passes, versus proving to be a headline-driven pop"
     },
     {
       "tier": "cyber_software",
-      "severity": "warning",
-      "title": "CrowdStrike drops on CTO departure even as sector fundamentals stay strong",
-      "body": "CrowdStrike fell sharply after its chief technology officer announced plans to leave and launch an AI- and cybersecurity-focused venture fund. Zscaler also pulled back. The move comes despite a still-bullish sector backdrop, with CrowdStrike and peers having hit fresh highs after last week's Black Hat conference underscored AI-driven demand for security spending.",
+      "severity": "info",
+      "title": "CrowdStrike pulls back from highs on profit-taking, not new bearish news",
+      "body": "CrowdStrike fell again today, but the move looks more like a cooling-off period after a run to fresh highs than a reaction to negative news — several analysts raised price targets this week and reiterated bullish ratings even as the stock slipped below its short-term moving averages. The pullback also follows the company's four-for-one stock split completed earlier this summer.",
       "watch": "CRWD, ZS, NTAP",
-      "focus": "lower conviction right now on the single-name move, though the broader sector thesis looks intact"
+      "focus": "lower conviction on reading too much into the single-name pullback given the still-bullish analyst backdrop"
     },
     {
       "tier": "robotics",
       "severity": "info",
-      "title": "Robotics dispersion continues as capital keeps flowing into humanoid names",
-      "body": "Teradyne and UBTECH both bounced today, while Tesla extended its recent run. Separately, a newly listed humanoid-robotics name surged more than 600% in its Shanghai trading debut this week, underscoring how much speculative capital is flowing into the space even as individual established names stay volatile day to day.",
-      "watch": "TER, TSLA, 9880.HK",
-      "focus": "worth treating daily swings as noise relative to the longer-term capital-flow trend into the sector"
+      "title": "Unitree's 600%+ Shanghai debut redirects speculative capital in humanoid robotics",
+      "body": "Unitree, the world's largest humanoid robot maker by sales, saw shares surge more than 600% in its Shanghai trading debut this week, a sign of how much speculative capital continues flowing into the space. UBTECH cooled today, plausibly as some of that flow rotated toward the newer listing, while Teradyne held up despite a valuation-driven downgrade following its own strong run.",
+      "watch": "9880.HK, TER, TSLA",
+      "focus": "worth treating single-day swings in individual names as noise relative to the broader capital-flow trend into humanoid robotics"
     }
   ]
 }
