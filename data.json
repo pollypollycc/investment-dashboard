@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "tiers": [
     {
       "id": "macro",
@@ -10,44 +10,44 @@
         {
           "ticker": "SPY",
           "name": "S&P 500 ETF",
-          "price": 765.72,
-          "change": 0.41,
-          "note": "climbed to a fresh session high, extending Friday's gains as the VIX dropped sharply"
+          "price": 763.63,
+          "change": -0.27,
+          "note": "eased back from Friday's highs as investors position ahead of Nvidia's August 26 earnings and Fed Chair Warsh's August 28 Jackson Hole speech"
         },
         {
           "ticker": "QQQ",
           "name": "Nasdaq 100 ETF",
-          "price": 713.44,
-          "change": 0.35,
-          "note": "advanced alongside broader tech strength heading into Nvidia's August 26 earnings"
+          "price": 706.32,
+          "change": -1.0,
+          "note": "pulled back alongside broader tech weakness heading into a heavy week of catalysts"
         },
         {
           "ticker": "US10Y",
           "name": "10-year Treasury yield",
-          "price": 4.74,
-          "change": 0.09,
-          "note": "ticked up again; markets are also watching Fed Chair Warsh's first Jackson Hole speech on August 28 and the hawkish 9-3 split revealed in July's FOMC minutes"
+          "price": 4.7,
+          "change": -0.04,
+          "note": "eased slightly but bond-market anxiety remains elevated ahead of Warsh's high-stakes Jackson Hole speech Friday"
         },
         {
           "ticker": "WTI",
           "name": "Crude oil (WTI)",
-          "price": 87.1,
-          "change": 0.53,
-          "note": "edged higher, holding near recent highs with the Iran-related geopolitical premium still in place"
+          "price": 84.85,
+          "change": -2.54,
+          "note": "fell back from its recent highs, giving up some of the Iran-related geopolitical premium"
         },
         {
           "ticker": "GOLD",
           "name": "Gold",
-          "price": 4661.6,
-          "change": 1.97,
+          "price": 4688.74,
+          "change": 0.58,
           "note": "extended its climb further on continued haven demand alongside elevated yields"
         },
         {
           "ticker": "DXY",
           "name": "US Dollar Index",
-          "price": 98.85,
-          "change": 0.05,
-          "note": "roughly flat, holding its recent recovery"
+          "price": 98.97,
+          "change": 0.12,
+          "note": "modestly firmer, holding its recent recovery"
         }
       ]
     },
@@ -59,44 +59,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 214.72,
-          "change": -0.98,
-          "note": "eased slightly heading into its closely watched August 26 earnings report, with analysts expecting roughly $93-95B in revenue"
+          "price": 210.39,
+          "change": -2.02,
+          "note": "slipped further heading into Wednesday's closely watched Q2 report, with analysts modeling roughly $93-95B in revenue (~95% year-over-year growth)"
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom",
-          "price": 368.9,
-          "change": 1.6,
-          "note": "advanced, continuing to hold up better than most AI-infrastructure peers"
+          "price": 358.7,
+          "change": -2.76,
+          "note": "eased back from recent highs; still down roughly 21% from its June peak even as its AI-infrastructure growth rate remains the fastest among large chipmakers"
         },
         {
           "ticker": "MSFT",
           "name": "Microsoft",
-          "price": 483.24,
-          "change": 0.43,
-          "note": "edged higher, holding near its highs on continued cloud-growth strength"
+          "price": 487.89,
+          "change": 0.93,
+          "note": "rose again toward record highs, continuing to lean on cloud-growth strength and its recently disclosed roughly $678B AI capex plan"
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet",
-          "price": 345.1,
-          "change": 1.22,
-          "note": "one of today's stronger megacaps"
+          "price": 340.92,
+          "change": -1.21,
+          "note": "pulled back modestly, still digesting this month's AI-leadership reshuffle (Jeff Dean's departure and Demis Hassabis's move to a chairman role) even as underlying cloud growth stays strong"
         },
         {
           "ticker": "AMZN",
           "name": "Amazon",
           "price": 265.29,
-          "change": -0.57,
-          "note": "slipped modestly, still lagging its megacap peers"
+          "change": null,
+          "note": "quote data was largely unchanged across sources today; a reliable intraday percent change couldn't be confirmed"
         },
         {
           "ticker": "ORCL",
           "name": "Oracle",
           "price": 165.9,
-          "change": 2.6,
-          "note": "quote data was inconsistent across sources today (estimates ranged widely); direction points modestly higher but treat the size of the move with caution"
+          "change": null,
+          "note": "quote data remained highly inconsistent across sources today (estimates ranged from roughly $146 to $193); treat any single figure with caution"
         }
       ]
     },
@@ -108,44 +108,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 214.72,
-          "change": -0.98,
-          "note": "eased slightly heading into its closely watched August 26 earnings report, with analysts expecting roughly $93-95B in revenue"
+          "price": 210.39,
+          "change": -2.02,
+          "note": "slipped further heading into Wednesday's closely watched Q2 report, with analysts modeling roughly $93-95B in revenue (~95% year-over-year growth)"
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices",
-          "price": 473.25,
-          "change": 0.81,
-          "note": "rebounded from its recent slide"
+          "price": 459.84,
+          "change": -2.83,
+          "note": "fell alongside the broader chip-sector pullback ahead of Nvidia's earnings"
         },
         {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor",
-          "price": 413.83,
-          "change": 0.1,
-          "note": "roughly flat, still holding up better than most chip peers"
+          "price": 410.04,
+          "change": -2.13,
+          "note": "slipped with peers as the sector broadly gave back recent gains"
         },
         {
           "ticker": "MU",
           "name": "Micron",
-          "price": 966.78,
-          "change": -0.77,
-          "note": "eased slightly after its recent climb to near-record levels"
+          "price": 910.01,
+          "change": -5.87,
+          "note": "dropped sharply, giving back a big chunk of its recent climb to near-record levels"
         },
         {
           "ticker": "ASML",
           "name": "ASML",
-          "price": 1751.73,
-          "change": 0.0,
-          "note": "roughly flat; live quote data was limited for this session"
+          "price": 1740.13,
+          "change": -1.34,
+          "note": "eased slightly, tracking the broader chip-sector pullback"
         },
         {
           "ticker": "ARM",
           "name": "Arm Holdings",
-          "price": 274.58,
-          "change": 10.68,
-          "note": "jumped sharply this week per the most detailed source available, though quote data was inconsistent across other sources \u2014 treat the size of the move with caution"
+          "price": 239.35,
+          "change": -1.67,
+          "note": "pulled back from its recent sharp run-up; quote data remains inconsistent across sources, so treat the size of moves with caution"
         }
       ]
     },
@@ -157,30 +157,30 @@
         {
           "ticker": "TSLA",
           "name": "Tesla",
-          "price": 362.86,
-          "change": 5.14,
-          "note": "jumped sharply, one of today's strongest megacap movers"
+          "price": 348.95,
+          "change": -3.83,
+          "note": "gave back a big chunk of Friday's sharp rally"
         },
         {
           "ticker": "ISRG",
           "name": "Intuitive Surgical",
-          "price": 359.41,
-          "change": -1.5,
-          "note": "extended its post-earnings decline; Q2 beat estimates but slowing US procedure growth and a cautious outlook have continued to weigh on shares"
+          "price": 373.57,
+          "change": -1.38,
+          "note": "eased further, still working through a cautious post-earnings outlook"
         },
         {
           "ticker": "TER",
           "name": "Teradyne",
-          "price": 375.74,
-          "change": -1.93,
-          "note": "eased further, giving back some of its recent gains"
+          "price": 364.93,
+          "change": -2.88,
+          "note": "extended its pullback, giving back more of its recent gains"
         },
         {
           "ticker": "9880.HK",
           "name": "UBTECH Robotics",
           "price": 81.45,
           "change": -2.92,
-          "note": "slipped further as capital in China's humanoid-robotics space stays volatile and speculative; quote data remains thinner for this listing"
+          "note": "no fresher quote was available today; capital in China's humanoid-robotics space continues to rotate between listings, and this listing's data remains thin"
         }
       ]
     },
@@ -193,29 +193,29 @@
           "ticker": "PLTR",
           "name": "Palantir",
           "price": 179.94,
-          "change": 3.44,
-          "note": "jumped, one of today's stronger movers in the group"
+          "change": null,
+          "note": "no fresher quote was confirmed today beyond its recent levels around $180"
         },
         {
           "ticker": "CRM",
           "name": "Salesforce",
           "price": 209.17,
-          "change": 1.82,
-          "note": "rose despite ongoing Wall Street caution about AI's competitive threat to the sector, following Morgan Stanley's recent downgrade; earnings due August 26"
+          "change": null,
+          "note": "has rallied sharply over the past week or so as capital rotates out of AI-hardware winners and into beaten-down software names; a confirmed single-day figure for today wasn't available"
         },
         {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "price": 128.0,
-          "change": -0.66,
-          "note": "held roughly steady near its recent highs"
+          "price": 129.81,
+          "change": 1.41,
+          "note": "edged up further, continuing to benefit from the same software-sector rotation lifting peers"
         },
         {
           "ticker": "ADBE",
           "name": "Adobe",
-          "price": 254.0,
-          "change": -1.8,
-          "note": "fell further amid continued Wall Street caution about AI's competitive threat to its creative and enterprise tools; Morgan Stanley cut its price target to $240 from $365"
+          "price": 276.26,
+          "change": null,
+          "note": "has climbed roughly 9% over the past week or so, rebounding from AI-disruption fears as investors rotate into beaten-down software names; a confirmed single-day figure for today wasn't available"
         }
       ]
     },
@@ -227,30 +227,30 @@
         {
           "ticker": "OUST",
           "name": "Ouster",
-          "price": 35.8,
-          "change": -3.5,
+          "price": 34.77,
+          "change": -2.88,
           "note": "remains volatile with thin, inconsistent quote data across sources"
         },
         {
           "ticker": "VPG",
           "name": "Vishay Precision Group",
-          "price": 64.5,
-          "change": null,
-          "note": "quote data was inconsistent across sources today and a reliable percent change couldn't be confirmed; treat with caution"
+          "price": 65.56,
+          "change": 1.64,
+          "note": "quote data was inconsistent across sources today; treat with caution"
         },
         {
           "ticker": "CDNS",
           "name": "Cadence Design Systems",
-          "price": 330.0,
-          "change": 1.9,
-          "note": "recovered modestly alongside the broader software/chip-design complex"
+          "price": 324.82,
+          "change": null,
+          "note": "the freshest confirmed quote available today was over a week old; treat with caution"
         },
         {
           "ticker": "SNPS",
           "name": "Synopsys",
-          "price": 398.0,
-          "change": -1.6,
-          "note": "eased slightly, still holding up on longer-term AI-chip-design tailwinds"
+          "price": 394.51,
+          "change": -0.88,
+          "note": "eased slightly, tracking the broader chip-design complex"
         }
       ]
     },
@@ -262,16 +262,16 @@
         {
           "ticker": "BTC",
           "name": "Bitcoin",
-          "price": 76065.16,
-          "change": 3.1,
-          "note": "eased off its highs as the Clarity Act's Senate vote was pushed to a September procedural vote, tempering some of the week's regulatory-optimism rally, though prices remain well above pre-rally levels"
+          "price": 79106.77,
+          "change": 4.02,
+          "note": "extended its rally, buoyed by a last-ditch White House and industry push for the Clarity Act and by the Treasury's move to double long-term debt buybacks, even though the Senate's procedural vote has slipped to September"
         },
         {
           "ticker": "ETH",
           "name": "Ethereum",
-          "price": 2388.8,
-          "change": -2.0,
-          "note": "pulled back modestly after its sharp rally earlier in the week, though still up sharply over the past seven days"
+          "price": 2488.0,
+          "change": 4.15,
+          "note": "climbed alongside Bitcoin, extending its own sharp multi-day rally"
         }
       ]
     },
@@ -284,40 +284,40 @@
         {
           "ticker": "CRWD",
           "name": "CrowdStrike",
-          "price": 196.5,
-          "change": 3.1,
-          "note": "bounced modestly heading into its own August 26 earnings report, following its summer stock split; quote data was inconsistent across sources today"
+          "price": 189.93,
+          "change": -3.34,
+          "note": "eased back heading into Wednesday's Q2 report, even after KeyBanc raised its price target to $240 from $234 following the stock's post-Black-Hat run to record highs"
         },
         {
           "ticker": "ZS",
           "name": "Zscaler",
-          "price": 181.75,
-          "change": 3.88,
-          "note": "rallied on fresh analyst price-target increases at KeyBanc and Mizuho (both raised to $210 from $185) ahead of earnings"
+          "price": 176.32,
+          "change": -2.99,
+          "note": "pulled back after last week's rally on fresh KeyBanc/Mizuho price-target hikes; quote data was inconsistent across sources today"
         },
         {
           "ticker": "NTAP",
           "name": "NetApp",
-          "price": 197.5,
-          "change": -4.0,
+          "price": 194.0,
+          "change": 0.66,
           "status": "watch",
-          "note": "pulled back from its recent AI-infrastructure-driven highs; quote data was inconsistent across sources today"
+          "note": "edged higher, continuing to hold near its recent AI-infrastructure-driven highs"
         },
         {
           "ticker": "U",
           "name": "Unity Software",
-          "price": 47.11,
+          "price": 46.93,
           "change": 0.84,
           "status": "watch",
-          "note": "edged higher, continuing to digest its strong Q2 report"
+          "note": "little changed, continuing to digest its strong Q2 report"
         },
         {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "price": 128.0,
-          "change": -0.66,
+          "price": 129.81,
+          "change": 1.41,
           "status": "watch",
-          "note": "held roughly steady near its recent highs"
+          "note": "edged up further, continuing to benefit from the same software-sector rotation lifting peers"
         }
       ]
     }
@@ -326,72 +326,72 @@
     "summary": "Not financial advice \u2014 this is a personal tracking dashboard meant to organize publicly available information for research purposes. Always size positions and confirm with your own research.",
     "strongest": [
       {
-        "area": "Broad market risk appetite, led by Tesla, Alphabet, and the S&P 500/Nasdaq",
-        "reason": "major indices closed higher with the VIX down sharply, and Tesla led megacap gainers, as sentiment improved heading into Nvidia's high-stakes August 26 earnings report"
+        "area": "Crypto, led by Bitcoin and Ethereum",
+        "reason": "both extended their rally as the White House and crypto-industry leaders pushed hard for the Clarity Act and the Treasury's long-term debt buyback plan pulled yields lower, even though the Senate's procedural vote has slipped to a September date"
       },
       {
-        "area": "Select cybersecurity names, led by Zscaler",
-        "reason": "Zscaler rallied on fresh price-target increases from KeyBanc and Mizuho ahead of earnings season, a rare clearly bullish analyst signal in an otherwise mixed software tape"
+        "area": "Beaten-down enterprise software, led by Salesforce, ServiceNow, and Adobe",
+        "reason": "all three have rebounded sharply over the past one to two weeks as investors rotate profits out of richly valued AI-hardware winners and into software names that had fallen 30%+ this year on AI-disruption fears"
       }
     ],
     "weakest": [
       {
-        "area": "AI-exposed enterprise software, led by Adobe and Salesforce",
-        "reason": "Morgan Stanley downgraded both names again this week (cutting Adobe's price target to $240 from $365) as part of a broader wave of Wall Street caution about AI's disruptive threat to the sector; both stocks are down roughly 31% year-to-date"
+        "area": "Chips & semiconductors broadly, led by Nvidia, AMD, TSM, and Micron",
+        "reason": "the group pulled back together today, with nerves and some profit-taking ahead of Nvidia's high-stakes August 26 earnings report, the single biggest catalyst on the calendar this week"
       },
       {
-        "area": "Crypto regulatory momentum",
-        "reason": "the Clarity Act's Senate vote was pushed from an imminent decision to a September procedural vote, tempering the week's sharp Bitcoin and Ethereum rally even though prices remain elevated"
+        "area": "Robotics, led by Tesla, Teradyne, and UBTECH",
+        "reason": "all three gave back ground today even as the longer-term humanoid-robotics thesis stays intact; single-name volatility in the group remains high, especially in the more speculative China-listed names"
       }
     ],
-    "nextStep": "Nvidia's August 26 earnings report is probably the single biggest catalyst to watch closely across the chip and AI-infrastructure tiers this week. The software-sector downgrades and the Clarity Act delay are probably better treated as ongoing headwinds to monitor than as one-off events to react to."
+    "nextStep": "Nvidia's August 26 earnings report and Fed Chair Warsh's August 28 Jackson Hole speech are the two dominant catalysts this week and probably deserve the closest attention across the chip, AI-infrastructure, and macro tiers. The software-sector rotation and crypto's Clarity-Act-driven gains are probably better treated as trends worth watching than as one-off events to react to before those two catalysts land."
   },
   "signals": [
     {
       "tier": "macro",
-      "severity": "info",
-      "title": "Fed holds steady with a hawkish split; Jackson Hole speech looms",
-      "body": "July's FOMC meeting minutes, released this week, showed a 9-3 vote to hold rates at 3.50%-3.75%, with three regional Fed presidents dissenting in favor of a hike \u2014 an unusually hawkish split. A weaker July jobs report and cooler-than-feared inflation data have pulled September rate-cut odds down somewhat, though the outcome remains genuinely uncertain. Fed Chair Kevin Warsh delivers his first Jackson Hole speech on August 28.",
+      "severity": "warning",
+      "title": "Bond-market anxiety builds ahead of Warsh's debut Jackson Hole speech",
+      "body": "Fed Chair Kevin Warsh delivers his first Jackson Hole speech as chair on Friday, August 28, with traders and analysts watching closely for guidance on the recent jump in bond yields and for signs of his independence from the White House. Warsh has said he wants to wait for recommendations from five task forces established earlier this year before getting too detailed about his plans, which has left markets somewhat in the dark on the near-term rate path.",
       "watch": "SPY, US10Y, DXY",
-      "focus": "worth a closer look at how Warsh frames the rate path in his Jackson Hole speech, given the hawkish dissent already on record"
+      "focus": "worth a closer look at how directly Warsh addresses the rate path Friday, given how much the bond market has been pricing in ahead of the speech"
     },
     {
       "tier": "chips",
       "severity": "warning",
-      "title": "Nvidia's August 26 earnings loom as the week's biggest catalyst",
-      "body": "Nvidia reports Q2 results after the bell on August 26, with analysts projecting roughly $93-95B in revenue (about 96% year-over-year growth) and price targets clustering between $275 and $325. Chip stocks broadly have struggled to hold gains since July's steep declines on fears about AI-investment returns, though strong cloud growth at Microsoft, Amazon, and Google has helped ease some of that concern.",
+      "title": "Chips pull back together as Nvidia's August 26 earnings approach",
+      "body": "Nvidia, AMD, TSM, and Micron all traded lower today ahead of Nvidia's Q2 report, due after the bell on August 26. Analysts are modeling roughly $93-95B in revenue (about 95% year-over-year growth), with price targets clustering between $275 and $325. The pullback looks like pre-earnings positioning rather than a reaction to fresh negative news.",
       "watch": "NVDA, AMD, TSM, MU",
-      "focus": "worth a closer look at whether Nvidia's results confirm the AI-infrastructure demand story or reignite the ROI-fear narrative from July"
-    },
-    {
-      "tier": "ai_software",
-      "severity": "warning",
-      "title": "Morgan Stanley deepens AI-disruption downgrades on Adobe and Salesforce",
-      "body": "Morgan Stanley analyst Adam Wood downgraded Adobe to Underweight, cutting its price target to $240 from $365, and downgraded Salesforce as well, citing intensifying AI-driven competitive pressure. It's part of a broader wave \u2014 more than a dozen firms have downgraded Adobe in 2026 \u2014 and both stocks are down roughly 31% year-to-date as the sector reprices AI disruption risk.",
-      "watch": "ADBE, CRM, NOW, PLTR",
-      "focus": "lower conviction on the group right now given the persistent and broadening analyst caution"
+      "focus": "worth a closer look at whether Wednesday's results confirm the AI-infrastructure demand story or reignite the ROI-fear narrative from earlier this summer"
     },
     {
       "tier": "crypto",
       "severity": "info",
-      "title": "Clarity Act vote pushed to September, tempering the week's crypto rally",
-      "body": "After Bitcoin and Ethereum surged as Trump and crypto executives pushed for a final 2026 vote, the Senate's procedural vote on the Clarity Act has reportedly been pushed to September, with the bill previously viewed by some investors as effectively dead for the year before this latest push. The legislation would clarify whether digital assets are regulated as securities or commodities and is seen as a potential catalyst to end the recent crypto winter.",
+      "title": "Bitcoin and Ethereum extend their Clarity Act-driven rally, but the Senate vote has slipped again",
+      "body": "Bitcoin surged past $78,000 last week for a roughly 22.6% weekly rally as President Trump and crypto-industry executives made a last-ditch push for the Clarity Act, and both Bitcoin and Ethereum have continued to grind higher since. A decline in long-term Treasury yields, following the Treasury's announcement that it would double long-term debt buybacks, has also supported the move. The Senate's procedural vote on the bill, however, has been pushed to September.",
       "watch": "BTC, ETH",
-      "focus": "worth watching whether the September procedural vote actually happens, versus treating this week's price move as a durable regulatory-clarity repricing"
+      "focus": "worth watching whether the September procedural vote actually materializes, versus treating the current rally as a durable regulatory-clarity repricing"
+    },
+    {
+      "tier": "ai_software",
+      "severity": "info",
+      "title": "Beaten-down software names rebound as capital rotates out of AI hardware",
+      "body": "Salesforce, ServiceNow, Adobe, and other enterprise-software names have rallied sharply over the past one to two weeks as investors rotate profits out of richly valued AI-hardware winners and into software stocks that had fallen 30%+ this year on fears about AI's competitive threat. It's a notable shift from the wave of analyst downgrades that hit the sector earlier this summer, though it looks more like a sector-wide rotation than a change in the underlying AI-disruption debate.",
+      "watch": "CRM, NOW, ADBE, PLTR",
+      "focus": "worth a closer look at whether this rotation has legs or fades once AI-hardware names find their footing again"
     },
     {
       "tier": "cyber_software",
       "severity": "info",
-      "title": "Zscaler gets fresh price-target hikes ahead of earnings season",
-      "body": "KeyBanc and Mizuho both raised their price targets on Zscaler to $210 from $185 this week, and the stock rallied on the news. CrowdStrike, meanwhile, heads into its own August 26 earnings report still digesting its summer four-for-one stock split, with Cantor Fitzgerald recently trimming its post-split price target to $250.",
-      "watch": "ZS, CRWD",
-      "focus": "worth a closer look at whether upcoming earnings from CrowdStrike confirm the bullish analyst tone building around Zscaler"
+      "title": "CrowdStrike heads into earnings on a strong run; Zscaler cools off after its price-target rally",
+      "body": "CrowdStrike and Palo Alto Networks both hit record highs after this month's Black Hat conference highlighted rising AI-related security threats, and KeyBanc raised its CrowdStrike price target to $240 from $234 ahead of the company's Q2 report on August 26. Zscaler, meanwhile, pulled back today after last week's rally on fresh KeyBanc and Mizuho price-target hikes.",
+      "watch": "CRWD, ZS",
+      "focus": "worth a closer look at whether CrowdStrike's earnings confirm the bullish setup or the sector gives back some of its recent gains on a mixed report"
     },
     {
       "tier": "robotics",
       "severity": "info",
-      "title": "China's humanoid-robotics space stays a speculative capital magnet",
-      "body": "UBTECH continues to see volatile trading as speculative capital in China's humanoid-robotics sector rotates between listings following Unitree's blockbuster Shanghai debut. Longer-term forecasts remain bullish \u2014 industry estimates put the humanoid-robot market growing from roughly $2-3B today to as much as $200B by 2035 \u2014 but near-term single-name moves look more speculative than fundamentals-driven.",
+      "title": "China's humanoid-robotics space keeps drawing speculative capital despite today's pullback",
+      "body": "The Solactive China Humanoid Robotics Index is up roughly 75% over the past year, and UBTECH has gained more than 60% year-to-date, even as today's session saw the group broadly lower. Tesla has also leaned further into the theme, with its latest strategic roadmap emphasizing Optimus and Elon Musk suggesting the robot project could eventually account for a large share of the company's enterprise value.",
       "watch": "9880.HK, TER, TSLA",
       "focus": "worth treating single-day swings in individual robotics names as noise relative to the multi-year capital-flow trend into the space"
     }
