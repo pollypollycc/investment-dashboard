@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "tiers": [
     {
       "id": "macro",
@@ -10,44 +10,44 @@
         {
           "ticker": "SPY",
           "name": "S&P 500 ETF",
-          "price": 765.16,
-          "change": 0.44,
-          "note": "rebounded as Fed rate-hike odds for the September 16 meeting cooled from Tuesday's highs, even as fresh Iran-linked oil-market tension kept a lid on the bounce"
+          "price": 773.28,
+          "change": 1.06,
+          "note": "extended its rebound as Fed Governor Waller signaled he could support holding rates steady in September, easing hike odds and lifting risk appetite across stocks"
         },
         {
           "ticker": "QQQ",
           "name": "Nasdaq 100 ETF",
-          "price": 709.24,
-          "change": 0.23,
-          "note": "edged higher alongside the broader market as cooling rate-hike odds offset a jump in Microsoft, Alphabet, and Nvidia-driven mega-cap tech strength"
+          "price": 718.9,
+          "change": 1.36,
+          "note": "outpaced the S&P as Waller's dovish remarks fueled a fresh leg higher in mega-cap tech, extending this week's AI-driven strength"
         },
         {
           "ticker": "US10Y",
           "name": "10-year Treasury yield",
-          "price": 4.79,
-          "change": -0.01,
-          "note": "eased slightly to 4.79% after a five-session climb, as market-implied odds of a September 25-basis-point Fed hike cooled to roughly the mid-50s to 60s percent range from near 70% earlier in the week"
+          "price": 4.76,
+          "change": -0.03,
+          "note": "slipped further toward the mid-4.70s as Waller's comments pulled market-implied odds of a September 25-basis-point hike down toward a third-to-half range"
         },
         {
           "ticker": "WTI",
           "name": "Crude oil (WTI)",
-          "price": 91.86,
-          "change": 1.15,
-          "note": "climbed further to nearly $92 as Iran struck Gulf-ally Kuwait and tensions around the Strait of Hormuz escalated, even as Trump's comments that the exchange would be short-lived took some heat out of the rally"
+          "price": 90.6,
+          "change": -1.37,
+          "note": "eased back from the week's highs as improving risk sentiment took some safe-haven and geopolitical-risk premium out of crude, even with the Iran-Kuwait situation still unresolved"
         },
         {
           "ticker": "GOLD",
           "name": "Gold",
-          "price": 4495.0,
-          "change": 3.16,
-          "note": "jumped back above $4,490 on hopes that the latest round of Iran-linked strikes proves short-lived, with safe-haven demand still elevated given the unresolved Middle East backdrop"
+          "price": 4470.66,
+          "change": -0.54,
+          "note": "pulled back modestly as easing rate-hike fears reduced some safe-haven urgency, even though lower yields and a softer dollar remain broadly supportive"
         },
         {
           "ticker": "DXY",
           "name": "US Dollar Index",
-          "price": 99.51,
-          "change": -0.22,
-          "note": "slipped modestly as this week's hawkish Fed repricing partially unwound alongside easing rate-hike odds"
+          "price": 99.11,
+          "change": -0.4,
+          "note": "extended its slide as the yen strengthened and Treasury yields fell further on Waller's rate-patience comments"
         }
       ]
     },
@@ -59,44 +59,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 224.41,
-          "change": 3.21,
-          "note": "jumped after confirming a $12.9B acquisition of Hugging Face, extending gains from Dell's stronger-than-expected earnings that reinforced confidence in AI data-center demand"
+          "price": 229.79,
+          "change": 2.4,
+          "note": "extended its Hugging Face-acquisition rally, with Bank of America naming it a top AI chip pick for the year"
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom",
-          "price": 367.24,
-          "change": -0.66,
-          "note": "eased slightly, giving back a touch of ground after last week's Q3 beat as chip-tariff headlines added a new source of uncertainty to the AI semiconductor trade"
+          "price": 357.16,
+          "change": -2.74,
+          "note": "gave back further ground, adding to this week's pullback as chip-tariff headlines continue to weigh on sentiment"
         },
         {
           "ticker": "MSFT",
           "name": "Microsoft",
-          "price": 511.5,
-          "change": 2.95,
-          "note": "rose after announcing a reporting-structure overhaul that will disclose Azure revenue in dollars for the first time, a transparency move investors read as a sign of confidence in the cloud business"
+          "price": 496.82,
+          "change": -2.87,
+          "note": "slipped despite the new Azure-revenue disclosure plan, tracking a broader pause in mega-cap tech after several strong sessions"
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet",
-          "price": 344.15,
-          "change": 2.09,
-          "note": "advanced after a federal judge declined to force a breakup of Google's ad-tech business, removing a long-running antitrust overhang even as some changes to ad practices were still ordered"
+          "price": 342.43,
+          "change": -0.5,
+          "note": "eased slightly heading into its ex-dividend date, with the ad-tech antitrust overhang mostly resolved but no major fresh catalyst today"
         },
         {
           "ticker": "AMZN",
           "name": "Amazon",
-          "price": 258.33,
-          "change": 1.31,
-          "note": "gained alongside the broader mega-cap complex, with Zoox's robotaxi expansion into Las Vegas adding a modest positive datapoint alongside the ongoing FTC advertising lawsuit overhang"
+          "price": 259.87,
+          "change": 0.6,
+          "note": "edged higher again, tracking the broader mega-cap advance"
         },
         {
           "ticker": "ORCL",
           "name": "Oracle",
-          "price": 148.6,
-          "change": 1.96,
-          "note": "bounced back somewhat after a rough stretch, with investors positioning ahead of the company's next earnings report on September 10"
+          "price": 154.04,
+          "change": 3.66,
+          "note": "jumped further as investors continued to position ahead of next week's earnings report"
         }
       ]
     },
@@ -108,44 +108,44 @@
         {
           "ticker": "NVDA",
           "name": "Nvidia",
-          "price": 224.41,
-          "change": 3.21,
-          "note": "jumped after confirming a $12.9B acquisition of Hugging Face, extending gains from Dell's stronger-than-expected earnings that reinforced confidence in AI data-center demand"
+          "price": 229.79,
+          "change": 2.4,
+          "note": "extended its Hugging Face-acquisition rally, with Bank of America naming it a top AI chip pick for the year"
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices",
-          "price": 457.06,
-          "change": -0.55,
-          "note": "slipped slightly in a mixed session for chipmakers as reports of a fresh round of U.S. semiconductor tariffs added a new layer of policy uncertainty to the sector"
+          "price": 456.16,
+          "change": -0.2,
+          "note": "roughly flat, consolidating after last week's tariff-headline-driven pullback with no fresh company-specific news today"
         },
         {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor",
-          "price": 415.5,
-          "change": 0.36,
-          "note": "held roughly steady after Stifel initiated coverage with a Buy rating, while a large fund reportedly rotated out of Micron and into TSMC during the quarter"
+          "price": 420.28,
+          "change": 1.15,
+          "note": "advanced further after Stifel's Buy initiation, with reports of continued fund rotation into the stock from weaker memory names"
         },
         {
           "ticker": "MU",
           "name": "Micron",
-          "price": 946.94,
-          "change": 1.46,
-          "note": "advanced even as memory names broadly came under early pressure from semiconductor-tariff headlines, with the stock recovering as the session progressed"
+          "price": 956.08,
+          "change": 0.97,
+          "note": "extended its gain even as broader memory-chip tariff jitters lingered, following a mixed session for the group"
         },
         {
           "ticker": "ASML",
           "name": "ASML",
-          "price": 1638.0,
-          "change": -2.63,
-          "note": "fell further on lingering concerns about Chinese competition in lithography equipment, even as some analysts called the recent selloff overdone given resilient AI-driven bookings"
+          "price": 1665.1,
+          "change": 1.65,
+          "note": "bounced back somewhat after its recent slide, with some analysts still calling the China-competition selloff overdone given resilient AI bookings"
         },
         {
           "ticker": "ARM",
           "name": "Arm Holdings",
-          "price": 232.21,
-          "change": -1.13,
-          "note": "eased slightly, continuing to consolidate after its recent run tied to strong AI-driven CPU royalty demand"
+          "price": 234.86,
+          "change": 1.14,
+          "note": "advanced on continued optimism around its push into the AI/AGI CPU market, with the company projecting $15B in revenue by fiscal 2031"
         }
       ]
     },
@@ -157,30 +157,30 @@
         {
           "ticker": "TSLA",
           "name": "Tesla",
-          "price": 378.7,
-          "change": 6.08,
-          "note": "surged ahead of today's invite-only Cybercab launch event in Austin, with teasers promising \"no steering wheel, no pedals\" fueling anticipation for updates on autonomous robotaxi and Optimus plans"
+          "price": 376.37,
+          "change": -0.62,
+          "note": "gave back some of its pre-event pop after the \"We, Robot\" Cybercab launch, with the debut of the Cybercab, a 20-seat Robovan, and an upgraded Optimus failing to satisfy investors looking for a firmer production timeline"
         },
         {
           "ticker": "ISRG",
           "name": "Intuitive Surgical",
-          "price": 372.03,
-          "change": 0.04,
-          "note": "held roughly flat, stabilizing after its post-earnings plunge weeks ago on slower U.S. procedure-growth guidance"
+          "price": 371.88,
+          "change": -0.04,
+          "note": "held roughly flat, continuing to stabilize after its post-earnings pullback"
         },
         {
           "ticker": "TER",
           "name": "Teradyne",
-          "price": 331.38,
-          "change": -3.0,
-          "note": "pulled back after a recent analyst downgrade citing valuation, even after a blowout quarter and new AI/data-center testing instrument launches this week"
+          "price": 348.0,
+          "change": 5.02,
+          "note": "rebounded further after last week's blowout quarter and new AI/data-center testing launches, clawing back some of the valuation-driven downgrade hit"
         },
         {
           "ticker": "9880.HK",
           "name": "UBTECH Robotics",
           "price": 78.75,
-          "change": -3.89,
-          "note": "no fresher same-day quote was available at the time of this update; last confirmed print continued to show the stock cooling off after last month's China humanoid-robotics rally"
+          "change": 0.0,
+          "note": "no fresher intraday quote was available for the Hong Kong-listed shares at the time of this update; last confirmed print continued to show the stock cooling off after last month's rally"
         }
       ]
     },
@@ -192,30 +192,30 @@
         {
           "ticker": "PLTR",
           "name": "Palantir",
-          "price": 185.11,
-          "change": 9.24,
-          "note": "rebounded sharply from yesterday's worst-day-in-seven-months slide, helped by an expanded PwC strategic alliance around enterprise AI even as some investors flagged the stock's high valuation multiples"
+          "price": 182.53,
+          "change": -1.39,
+          "note": "gave back a slice of yesterday's sharp rebound, with valuation concerns still lingering even after the expanded PwC alliance"
         },
         {
           "ticker": "CRM",
           "name": "Salesforce",
-          "price": 266.59,
-          "change": 3.76,
-          "note": "climbed further on continued momentum from last week's AI-growth beat and Anthropic partnership, with multiple analysts raising price targets toward $300"
+          "price": 264.43,
+          "change": -0.81,
+          "note": "eased modestly, pausing after last week's guidance-raise-driven surge"
         },
         {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "price": 145.25,
-          "change": 6.24,
-          "note": "jumped as the broader enterprise-software rally continued, with the stock trading near its highest level since January on growing confidence AI won't cannibalize subscription software"
+          "price": 147.5,
+          "change": 1.55,
+          "note": "extended its recent climb, continuing to trade near multi-month highs on confidence AI won't cannibalize subscription software revenue"
         },
         {
           "ticker": "ADBE",
           "name": "Adobe",
-          "price": 289.48,
-          "change": 3.46,
-          "note": "advanced as multiple analysts raised price targets ahead of the company's fiscal Q3 report due September 10, with RBC citing likely upside to annual recurring revenue"
+          "price": 285.75,
+          "change": -1.29,
+          "note": "pulled back slightly heading into next week's fiscal Q3 report, despite continued analyst price-target increases"
         }
       ]
     },
@@ -227,30 +227,30 @@
         {
           "ticker": "OUST",
           "name": "Ouster",
-          "price": 34.04,
-          "change": 1.86,
-          "note": "edged higher; a confirmed quote was found today after yesterday's data gap, continuing to trade as one of the more volatile names in the robotics-sensor group"
+          "price": 35.83,
+          "change": 5.26,
+          "note": "advanced further, continuing to trade as one of the more volatile names in the robotics-sensor group"
         },
         {
           "ticker": "VPG",
           "name": "Vishay Precision Group",
-          "price": 60.45,
-          "change": -1.97,
-          "note": "gave back some recent gains; no major company-specific news accompanied the move"
+          "price": 63.49,
+          "change": 5.03,
+          "note": "rebounded after recent weakness, with no major company-specific news accompanying the move"
         },
         {
           "ticker": "CDNS",
           "name": "Cadence Design Systems",
-          "price": 306.67,
-          "change": -2.03,
-          "note": "pulled back despite no negative company-specific news, giving back a slice of its recent AI-driven rally alongside a broader pause in chip-design software names"
+          "price": 316.52,
+          "change": 3.21,
+          "note": "bounced back somewhat after its recent pullback, tracking a steadier session for chip-design software names"
         },
         {
           "ticker": "SNPS",
           "name": "Synopsys",
-          "price": 415.97,
-          "change": 0.28,
-          "note": "held roughly steady, continuing to hover near highs after last week's raised full-year guidance on resilient AI chip-design demand"
+          "price": 412.41,
+          "change": -0.86,
+          "note": "eased slightly, giving back a touch of ground after last week's raised full-year guidance"
         }
       ]
     },
@@ -262,16 +262,16 @@
         {
           "ticker": "BTC",
           "name": "Bitcoin",
-          "price": 77928.0,
-          "change": 1.22,
-          "note": "lifted modestly on hopes the latest Iran-linked military escalation proves short-lived, helped by roughly $217M in spot Bitcoin ETF inflows and a large corporate buyer resuming purchases"
+          "price": 82200.0,
+          "change": 5.48,
+          "note": "surged to a four-month high above $82,000 after Fed Governor Waller said he could support holding rates steady in September, triggering roughly $415M in short liquidations"
         },
         {
           "ticker": "ETH",
           "name": "Ethereum",
-          "price": 2402.09,
-          "change": -0.06,
-          "note": "traded roughly flat, holding recent levels even as oil-driven macro jitters kept broader risk sentiment mixed"
+          "price": 2508.0,
+          "change": 4.41,
+          "note": "rallied alongside Bitcoin on the broader rate-relief-driven risk-on move across crypto markets"
         }
       ]
     },
@@ -284,38 +284,38 @@
         {
           "ticker": "CRWD",
           "name": "CrowdStrike",
-          "price": 210.72,
-          "change": 3.59,
-          "note": "climbed further as its Fal.Con 2026 conference produced a wave of new AI-security product launches and price-target hikes, including Truist raising its target to $300"
+          "price": 203.41,
+          "change": -3.47,
+          "note": "slipped further after Bloomberg reported CTO Elia Zaitsev is departing to launch an AI/cybersecurity venture fund, adding to post-earnings profit-taking"
         },
         {
           "ticker": "ZS",
           "name": "Zscaler",
-          "price": 176.84,
-          "change": 2.38,
-          "note": "rose heading into this afternoon's fiscal Q4 earnings report, the last of this week's big three cybersecurity prints after strong results from CrowdStrike and Palo Alto Networks"
+          "price": 188.61,
+          "change": 6.66,
+          "note": "jumped after beating fiscal Q4 estimates with 25% revenue growth and record operating margin, capping a strong week for cybersecurity earnings"
         },
         {
           "ticker": "NTAP",
           "name": "NetApp",
-          "price": 185.7,
-          "change": -0.93,
-          "note": "eased slightly even after announcing an expanded AWS storage-migration partnership with Amazon Web Services"
+          "price": 185.38,
+          "change": -0.17,
+          "note": "eased slightly, giving back a touch of its recent gains with no major fresh catalyst"
         },
         {
           "ticker": "U",
           "name": "Unity Software",
-          "price": 40.92,
-          "change": -2.35,
-          "note": "declined, continuing to trade in a weak recent range with no major company-specific catalyst today"
+          "price": 42.08,
+          "change": 2.83,
+          "note": "advanced modestly, continuing to recover after a rough recent stretch"
         },
         {
           "ticker": "NOW",
           "name": "ServiceNow",
-          "price": 145.25,
-          "change": 6.24,
+          "price": 147.5,
+          "change": 1.55,
           "status": "watch",
-          "note": "jumped as the broader enterprise-software rally continued, with the stock trading near its highest level since January on growing confidence AI won't cannibalize subscription software"
+          "note": "extended its recent climb, continuing to trade near multi-month highs on confidence AI won't cannibalize subscription software revenue"
         }
       ]
     }
@@ -324,82 +324,82 @@
     "summary": "Not financial advice — this is a personal tracking dashboard meant to organize publicly available information for research purposes. Always size positions and confirm with your own research.",
     "strongest": [
       {
-        "area": "Enterprise and AI software, led by Palantir, ServiceNow, Salesforce, and Adobe",
-        "reason": "all rallied sharply as the broader 'AI isn't eating software' thesis gained traction, with fresh alliance news (Palantir-PwC), earnings momentum (Salesforce), and positive analyst revisions ahead of upcoming reports (Adobe) all contributing"
+        "area": "Crypto and rate-sensitive assets, led by Bitcoin and Ethereum",
+        "reason": "Fed Governor Waller's dovish comments on holding rates steady sparked a sharp risk-on rally, with Bitcoin reclaiming $82,000 and heavy short covering fueling the move"
       },
       {
-        "area": "AI infrastructure dealmaking, led by Nvidia and Microsoft",
-        "reason": "Nvidia's confirmed $12.9B Hugging Face acquisition and Microsoft's new Azure-revenue disclosure plan both reinforced investor confidence in the durability of AI infrastructure spending"
+        "area": "Cybersecurity software, led by Zscaler's earnings beat",
+        "reason": "Zscaler's strong fiscal Q4 results and raised guidance capped a week of solid cybersecurity prints, reinforcing confidence in enterprise security spending even as CrowdStrike faced its own leadership-transition headline"
       }
     ],
     "weakest": [
       {
-        "area": "Chip-design software and select chip-equipment names, including Cadence and Teradyne",
-        "reason": "both pulled back after strong recent runs, with Teradyne hit by a valuation-driven analyst downgrade and Cadence giving back gains with no clear company-specific catalyst, as semiconductor-tariff headlines added sector-wide uncertainty"
+        "area": "AI infrastructure mega-caps, led by Microsoft and Broadcom",
+        "reason": "both pulled back after a strong recent run, with chip-tariff uncertainty and a broader pause in mega-cap tech taking some air out of the group despite no negative company-specific news"
       },
       {
-        "area": "Middle East-driven macro pressure on oil and safe-haven assets",
-        "reason": "Iran's strikes on Gulf-ally Kuwait kept WTI near $92 and gold above $4,490, even as hopes that the escalation proves short-lived helped stocks and crypto recover some poise"
+        "area": "Robotics event-driven names, led by Tesla",
+        "reason": "shares gave back their pre-event gains after the Cybercab launch failed to deliver a firm production timeline, underscoring how quickly event-driven rallies in this group can reverse"
       }
     ],
-    "nextStep": "Zscaler's fiscal Q4 report after today's close and any concrete follow-through from Tesla's Cybercab event are the most immediate, trackable catalysts worth watching before drawing conclusions. The semiconductor-tariff headlines and the still-fluid Iran situation are slower-moving, higher-uncertainty risks probably better monitored over the next several sessions than acted on from a single day's headlines."
+    "nextStep": "The September 15-16 FOMC meeting is now the key catalyst to watch given Waller's rate-patience comments, while Tesla's Cybercab rollout is worth tracking for concrete production details rather than reacting to today's give-back. The semiconductor-tariff overhang remains a slower-moving, higher-uncertainty risk probably better monitored than traded on any single day's headlines."
   },
   "signals": [
     {
       "tier": "macro",
-      "severity": "danger",
-      "title": "Iran strikes Gulf ally Kuwait as Strait of Hormuz tensions escalate further",
-      "body": "Iran extended its military actions to strike Kuwait, sending WTI crude toward $92 and Brent above $96 a barrel. Trump's comments that the exchange would be short-lived helped cap the rally, and markets broadly interpreted the situation as a serious but potentially containable escalation.",
-      "watch": "WTI, GOLD, SPY, QQQ",
-      "focus": "a genuine tail risk worth watching closely for further headlines rather than a reason to act on either side yet"
+      "severity": "info",
+      "title": "Fed's Waller signals patience on rate hikes, cooling September odds",
+      "body": "Fed Governor Christopher Waller said he could support holding rates steady at the September 15-16 meeting if inflation continues to cool, pulling market-implied odds of a hike down toward a third-to-half range and sparking a broad risk-on move across stocks, crypto, and gold.",
+      "watch": "US10Y, DXY, SPY, QQQ, BTC",
+      "focus": "a meaningful shift worth tracking into the September 16 decision, though a single official's comments aren't the same as a committee decision"
     },
     {
-      "tier": "macro",
+      "tier": "crypto",
       "severity": "info",
-      "title": "Fed rate-hike odds cool from this week's highs",
-      "body": "Market-implied odds of a 25-basis-point September hike eased to roughly the mid-50s to 60s percent range from near 70% earlier in the week, even with energy-driven inflation risk still elevated from the Iran conflict. The pullback in odds helped the 10-year yield ease slightly and gave stocks room to rebound.",
-      "watch": "US10Y, DXY, SPY, QQQ",
-      "focus": "probably better watched than acted on until the September 16 FOMC meeting provides more clarity"
-    },
-    {
-      "tier": "ai_infra",
-      "severity": "info",
-      "title": "Nvidia confirms $12.9B acquisition of Hugging Face",
-      "body": "After weeks of speculation, Nvidia confirmed it will acquire the open-source AI model platform Hugging Face for roughly $12.9 billion, its largest AI acquisition to date. The deal is framed as expanding Nvidia's reach across the open-model AI stack even as some of its largest customers develop their own custom chips.",
-      "watch": "NVDA",
-      "focus": "worth a closer look as a signal of where Nvidia sees its next growth vector, beyond just near-term price action"
-    },
-    {
-      "tier": "ai_software",
-      "severity": "info",
-      "title": "Enterprise software rally broadens beyond Salesforce",
-      "body": "Palantir, ServiceNow, and Adobe all posted big gains alongside continued strength in Salesforce, as investor concerns that AI would cannibalize subscription software revenue keep easing. Palantir's rebound followed an expanded PwC alliance a day after its worst session in seven months.",
-      "watch": "PLTR, NOW, CRM, ADBE",
-      "focus": "worth watching whether this breadth holds or proves to be a short covering-driven bounce, especially for the more richly-valued names"
+      "title": "Bitcoin surges to four-month high on Fed rate-hold hopes",
+      "body": "Bitcoin jumped roughly 5-7% to reclaim the $82,000 level, its highest since May, as Waller's dovish remarks triggered heavy short covering (roughly $415M in liquidations) and lifted the total crypto market cap toward $2.8 trillion.",
+      "watch": "BTC, ETH",
+      "focus": "a sharp, catalyst-driven move that's worth watching for follow-through rather than chasing after the fact"
     },
     {
       "tier": "robotics",
-      "severity": "info",
-      "title": "Tesla's Cybercab launch event is today's key robotics catalyst",
-      "body": "Tesla shares jumped ahead of an invite-only Cybercab event in Austin, Texas, with company teasers promising a design with no steering wheel or pedals. Investors are looking for concrete updates on production timelines and the broader Optimus and robotaxi rollout.",
-      "watch": "TSLA",
-      "focus": "worth a closer look given the binary, event-driven nature of today's catalyst"
-    },
-    {
-      "tier": "chips",
       "severity": "warning",
-      "title": "Fresh U.S. semiconductor tariffs reportedly on the way",
-      "body": "Commerce Secretary Lutnick said semiconductor tariffs are coming, reviving trade-policy uncertainty for chipmakers including Nvidia, AMD, Taiwan Semiconductor, and memory names like Micron. Reports suggest the tariffs could extend to a broader range of tech products built alongside chips.",
-      "watch": "NVDA, AMD, TSM, MU",
-      "focus": "a policy risk probably worth tracking for details rather than trading on the initial headline"
+      "title": "Tesla's Cybercab launch underwhelms on timeline specifics",
+      "body": "Tesla officially unveiled the Cybercab, a 20-seat Robovan, and an upgraded Optimus at its \"We, Robot\" event, but shares that had rallied into the event gave back gains afterward as investors noted the lack of a firm production or rollout timeline.",
+      "watch": "TSLA",
+      "focus": "worth watching closely for follow-up details on production timing rather than reacting to the initial event-day price swing"
     },
     {
       "tier": "cyber_software",
       "severity": "info",
-      "title": "Zscaler reports fiscal Q4 earnings after today's close",
-      "body": "Zscaler's print caps a strong week for cybersecurity earnings after both CrowdStrike and Palo Alto Networks posted upbeat results, with CrowdStrike separately using its Fal.Con conference to launch several new AI-security products and draw a string of price-target increases.",
+      "title": "Zscaler headlines a strong cybersecurity earnings week",
+      "body": "Zscaler beat fiscal Q4 estimates with 25% revenue growth, a record 24.3% operating margin, and raised full-year guidance, capping a week that also saw strong prints from CrowdStrike and Palo Alto Networks.",
       "watch": "ZS, CRWD",
-      "focus": "worth watching closely after today's close rather than positioning ahead of the print"
+      "focus": "a fundamentally strong quarter that's worth watching for how the stock digests the post-earnings pop over the next few sessions"
+    },
+    {
+      "tier": "cyber_software",
+      "severity": "warning",
+      "title": "CrowdStrike CTO departure adds to post-earnings profit-taking",
+      "body": "CrowdStrike shares slipped further after Bloomberg reported that CTO Elia Zaitsev is leaving to start an AI-focused venture fund, compounding a \"sell the news\" pullback that followed the company's record Q2 report and Fal.Con product announcements.",
+      "watch": "CRWD",
+      "focus": "a leadership-transition risk worth watching for a successor announcement rather than a reason to react to the headline alone"
+    },
+    {
+      "tier": "chips",
+      "severity": "warning",
+      "title": "Semiconductor tariff uncertainty continues to weigh on chip stocks",
+      "body": "Earlier comments from Commerce Secretary Lutnick on incoming semiconductor tariffs continue to pressure chipmakers, with memory and AI-adjacent names like Micron and Broadcom showing mixed, choppy trading as investors wait for policy specifics.",
+      "watch": "AVGO, MU, AMD, TSM",
+      "focus": "a slow-moving policy risk probably better tracked for concrete details than traded on day-to-day headlines"
+    },
+    {
+      "tier": "ai_software",
+      "severity": "info",
+      "title": "Enterprise software sector holds gains after Snowflake-fueled rally",
+      "body": "Software stocks remain up nearly 40% since the summer 'SaaSpocalypse' bottom, with Snowflake's strong Q2 print and raised guidance adding further fuel this week even as some individual names like Palantir and Adobe pulled back modestly.",
+      "watch": "NOW, CRM, ADBE, PLTR",
+      "focus": "worth watching whether the sector-wide strength broadens further or the recent leaders start to cool off"
     }
   ]
 }
